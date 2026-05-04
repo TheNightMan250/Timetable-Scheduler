@@ -1,0 +1,1635 @@
+[
+  {
+    "id": "T-FCSE-01",
+    "name": "Prof. Dr. Qadeer Ul Hasan",
+    "department": "FCSE",
+    "domain_tags": [
+      "machine_learning",
+      "signals",
+      "ai",
+      "computing"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FCSE-02",
+    "name": "Prof. Dr. Ghulam Abbas",
+    "department": "FCSE",
+    "domain_tags": [
+      "networks",
+      "distributed",
+      "iot",
+      "cyber_security"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FCSE-03",
+    "name": "Prof. Dr. Masroor Hussain",
+    "department": "FCSE",
+    "domain_tags": [
+      "parallel_computing",
+      "data_mining",
+      "neural_networks",
+      "data_science"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FCSE-04",
+    "name": "Dr. Salman Ahmed",
+    "department": "FCSE",
+    "domain_tags": [
+      "cyber_security",
+      "operating_systems",
+      "iot",
+      "distributed"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FCSE-05",
+    "name": "Dr. Ahmar Rashid",
+    "department": "FCSE",
+    "domain_tags": [
+      "algorithms",
+      "computer_vision",
+      "bioinformatics"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FCSE-06",
+    "name": "Dr. Muhammad Hanif",
+    "department": "FCSE",
+    "domain_tags": [
+      "computer_vision",
+      "signals",
+      "deep_learning",
+      "image_processing"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FCSE-07",
+    "name": "Dr. Shahabuddin Ansari",
+    "department": "FCSE",
+    "domain_tags": [
+      "signals",
+      "numerical_analysis",
+      "image_processing",
+      "dsp"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FCSE-08",
+    "name": "Dr. Khurram Khan Jadoon",
+    "department": "FCSE",
+    "domain_tags": [
+      "computer_vision",
+      "image_processing",
+      "deep_learning",
+      "machine_learning"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FCSE-09",
+    "name": "Dr. Fahad Bin Muslim",
+    "department": "FCSE",
+    "domain_tags": [
+      "embedded",
+      "hardware",
+      "machine_learning",
+      "digital_logic"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FCSE-10",
+    "name": "Dr. Muhammad Omer Bin Saeed",
+    "department": "FCSE",
+    "domain_tags": [
+      "computing"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FCSE-11",
+    "name": "Dr. Rashad M Jillani",
+    "department": "FCSE",
+    "domain_tags": [
+      "signals",
+      "dsp",
+      "computing"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FCSE-12",
+    "name": "Dr. Taj Muhammad Khan",
+    "department": "FCSE",
+    "domain_tags": [
+      "computer_architecture",
+      "operating_systems"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FCSE-13",
+    "name": "Dr. Waqar Ahmad",
+    "department": "FCSE",
+    "domain_tags": [
+      "hardware",
+      "embedded",
+      "digital_logic",
+      "cryptography"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FCSE-14",
+    "name": "Dr. Qamar Abbas",
+    "department": "FCSE",
+    "domain_tags": [
+      "iot",
+      "networks",
+      "signals"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FCSE-15",
+    "name": "Dr. Ali Imran Sandhu",
+    "department": "FCSE",
+    "domain_tags": [
+      "electromagnetic",
+      "signals",
+      "machine_learning"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FCSE-16",
+    "name": "Dr. Adnan Shah",
+    "department": "FCSE",
+    "domain_tags": [
+      "signals",
+      "image_processing",
+      "data_science"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FCSE-17",
+    "name": "Dr. Sarah Iqbal",
+    "department": "FCSE",
+    "domain_tags": [
+      "iot",
+      "machine_learning",
+      "distributed"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FCSE-18",
+    "name": "Dr. Ayaz Umer",
+    "department": "FCSE",
+    "domain_tags": [
+      "deep_learning",
+      "computer_vision",
+      "machine_learning"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FCSE-19",
+    "name": "Dr. Zubair Ahmad",
+    "department": "FCSE",
+    "domain_tags": [
+      "cyber_security",
+      "information_security",
+      "iot"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FCSE-20",
+    "name": "Dr. Shahab Haider",
+    "department": "FCSE",
+    "domain_tags": [
+      "cyber_security",
+      "cryptography",
+      "networks",
+      "iot"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FCSE-21",
+    "name": "Dr. Farah Saeed",
+    "department": "FCSE",
+    "domain_tags": [
+      "deep_learning",
+      "ai",
+      "data_science",
+      "machine_learning"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FCSE-22",
+    "name": "Dr. Zoya",
+    "department": "FCSE",
+    "domain_tags": [
+      "computing"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FCSE-23",
+    "name": "Dr. Muhammad Fawad Khan",
+    "department": "FCSE",
+    "domain_tags": [
+      "reinforcement_learning",
+      "iot",
+      "cyber_security",
+      "networks"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FCSE-24",
+    "name": "Dr. Muhammad Salman",
+    "department": "FCSE",
+    "domain_tags": [
+      "cyber_security",
+      "networks",
+      "iot"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FCSE-25",
+    "name": "Dr. Muhammad Waqas",
+    "department": "FCSE",
+    "domain_tags": [
+      "distributed",
+      "software_engineering",
+      "ai"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FCSE-26",
+    "name": "Dr. Asad Mahmood",
+    "department": "FCSE",
+    "domain_tags": [
+      "signals",
+      "networks",
+      "iot",
+      "dsp"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FCSE-27",
+    "name": "Dr. Muhammad Salman Saeed",
+    "department": "FCSE",
+    "domain_tags": [
+      "information_security",
+      "cryptography",
+      "machine_learning",
+      "networks"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FCSE-28",
+    "name": "Engr. Badre Munir",
+    "department": "FCSE",
+    "domain_tags": [
+      "image_processing",
+      "computing",
+      "ict"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FCSE-29",
+    "name": "Engr. Ahsan Shah",
+    "department": "FCSE",
+    "domain_tags": [
+      "data_mining",
+      "data_science",
+      "image_processing"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FCSE-30",
+    "name": "Muhammad Sajid Ali",
+    "department": "FCSE",
+    "domain_tags": [
+      "devops",
+      "data_science",
+      "bioinformatics"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FCSE-31",
+    "name": "Mr. Muhammad Qasim Riaz",
+    "department": "FCSE",
+    "domain_tags": [
+      "nlp",
+      "software_engineering",
+      "requirements"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FCSE-32",
+    "name": "Ms. Beenish Urooj",
+    "department": "FCSE",
+    "domain_tags": [
+      "information_security",
+      "cyber_security"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FCSE-33",
+    "name": "Ms. Laraib Afzal",
+    "department": "FCSE",
+    "domain_tags": [
+      "software_engineering",
+      "cyber_security",
+      "project_management"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FCSE-34",
+    "name": "Mr. Said Nabi",
+    "department": "FCSE",
+    "domain_tags": [
+      "machine_learning",
+      "nlp",
+      "project_management"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FCSE-35",
+    "name": "Muhammad Talha Ashfaq",
+    "department": "FCSE",
+    "domain_tags": [
+      "ai",
+      "deep_learning",
+      "data_science"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FCSE-36",
+    "name": "Salman Ashraf",
+    "department": "FCSE",
+    "domain_tags": [
+      "data_science",
+      "nlp",
+      "machine_learning"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FCSE-37",
+    "name": "Muhammad Huzaifa Shah",
+    "department": "FCSE",
+    "domain_tags": [
+      "machine_learning",
+      "deep_learning",
+      "computer_vision"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FCSE-38",
+    "name": "M. Ahmad Nawaz",
+    "department": "FCSE",
+    "domain_tags": [
+      "cyber_security",
+      "cryptography",
+      "digital_forensics",
+      "networks"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FCSE-39",
+    "name": "Waheed Ahmad",
+    "department": "FCSE",
+    "domain_tags": [
+      "machine_learning",
+      "nlp",
+      "parallel_computing"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FCSE-40",
+    "name": "Israr Ahmad",
+    "department": "FCSE",
+    "domain_tags": [
+      "software_engineering",
+      "requirements",
+      "nlp"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FCSE-41",
+    "name": "Hafiz Syed Muhammad Muslim",
+    "department": "FCSE",
+    "domain_tags": [
+      "data_science",
+      "deep_learning",
+      "machine_learning",
+      "nlp"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FCSE-42",
+    "name": "Hafiz Syed Ahmed Qasim",
+    "department": "FCSE",
+    "domain_tags": [
+      "deep_learning",
+      "machine_learning",
+      "computer_vision",
+      "nlp"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FCSE-43",
+    "name": "Safia Baloch",
+    "department": "FCSE",
+    "domain_tags": [
+      "nlp",
+      "deep_learning"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FCSE-44",
+    "name": "Rabbia Hassan",
+    "department": "FCSE",
+    "domain_tags": [
+      "computer_vision",
+      "nlp",
+      "formal_languages"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FCSE-45",
+    "name": "Laraib Noor",
+    "department": "FCSE",
+    "domain_tags": [
+      "software_engineering",
+      "machine_learning",
+      "iot",
+      "nlp"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FCSE-46",
+    "name": "Dr. Raja Hashim Ali",
+    "department": "FCSE",
+    "domain_tags": [
+      "ai",
+      "machine_learning",
+      "bioinformatics"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FCSE-47",
+    "name": "Dr. Farhan Khan",
+    "department": "FCSE",
+    "domain_tags": [
+      "data_science",
+      "signals",
+      "dsp"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FEE-01",
+    "name": "Dr. Arbab Abdur Rahim",
+    "department": "FEE",
+    "domain_tags": [
+      "electromagnetic",
+      "signals"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FEE-02",
+    "name": "Dr. Hadeed Ahmed Sher",
+    "department": "FEE",
+    "domain_tags": [
+      "power_electronics",
+      "power",
+      "applied_ee"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FEE-03",
+    "name": "Dr. Shahid Alam",
+    "department": "FEE",
+    "domain_tags": [
+      "applied_ee",
+      "instrumentation"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FEE-04",
+    "name": "Dr. Ahmad Kamal Hassan",
+    "department": "FEE",
+    "domain_tags": [
+      "signals",
+      "communication_systems",
+      "networks"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FEE-05",
+    "name": "Dr. Memoon Sajid",
+    "department": "FEE",
+    "domain_tags": [
+      "instrumentation",
+      "electronic_devices",
+      "applied_ee"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FEE-06",
+    "name": "Dr. Husnul Maab",
+    "department": "FEE",
+    "domain_tags": [
+      "electromagnetic",
+      "signals"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FEE-07",
+    "name": "Dr. Adnan Noor",
+    "department": "FEE",
+    "domain_tags": [
+      "electromagnetic",
+      "applied_ee"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FEE-08",
+    "name": "Dr. Dur-e-Zehra Baig",
+    "department": "FEE",
+    "domain_tags": [
+      "control_systems",
+      "signals",
+      "instrumentation",
+      "applied_ee"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FEE-09",
+    "name": "Dr. Ammar Arshad",
+    "department": "FEE",
+    "domain_tags": [
+      "power",
+      "power_distribution",
+      "applied_ee"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FEE-10",
+    "name": "Dr. Attique Ur Rehman",
+    "department": "FEE",
+    "domain_tags": [
+      "power",
+      "machine_learning",
+      "data_science"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FEE-11",
+    "name": "Dr. Waleed Tariq Sethi",
+    "department": "FEE",
+    "domain_tags": [
+      "communication_systems",
+      "electromagnetic",
+      "signals"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FEE-12",
+    "name": "Dr. Zaiwar Ali",
+    "department": "FEE",
+    "domain_tags": [
+      "machine_learning",
+      "neural_networks",
+      "iot",
+      "networks"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FEE-13",
+    "name": "Engr. Afaq Hussain",
+    "department": "FEE",
+    "domain_tags": [
+      "power_electronics",
+      "power",
+      "applied_ee"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FEE-14",
+    "name": "Umar Afzaal",
+    "department": "FEE",
+    "domain_tags": [
+      "power",
+      "power_distribution"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FME-01",
+    "name": "Dr. Taqi Ahmad Cheema",
+    "department": "FME",
+    "domain_tags": [
+      "thermodynamics",
+      "heat_transfer",
+      "fluid_mechanics",
+      "manufacturing"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FME-02",
+    "name": "Prof. Dr. Khalid Rahman",
+    "department": "FME",
+    "domain_tags": [
+      "manufacturing",
+      "engineering_graphics",
+      "workshop"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FME-03",
+    "name": "Prof. Ghulam Hussain",
+    "department": "FME",
+    "domain_tags": [
+      "manufacturing",
+      "stress_analysis"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FME-04",
+    "name": "Dr. Ahmad Abbas",
+    "department": "FME",
+    "domain_tags": [
+      "heat_transfer",
+      "robotics",
+      "mechanics"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FME-05",
+    "name": "Dr. Massab Junaid",
+    "department": "FME",
+    "domain_tags": [
+      "manufacturing",
+      "mechanics_of_solids",
+      "stress_analysis"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FME-06",
+    "name": "Dr. Ali Turab Jafry",
+    "department": "FME",
+    "domain_tags": [
+      "manufacturing",
+      "applied_ee"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FME-07",
+    "name": "Dr. Abid Imran",
+    "department": "FME",
+    "domain_tags": [
+      "robotics",
+      "manufacturing",
+      "machine_elements"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FME-08",
+    "name": "Dr. Arsalan Arif",
+    "department": "FME",
+    "domain_tags": [
+      "electric_machines",
+      "control_systems",
+      "applied_ee"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FME-09",
+    "name": "Dr. Taimoor Hassan",
+    "department": "FME",
+    "domain_tags": [
+      "robotics",
+      "mechanics",
+      "engineering_graphics",
+      "manufacturing"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FME-10",
+    "name": "Dr. Muhammad Qasim Zafar",
+    "department": "FME",
+    "domain_tags": [
+      "manufacturing",
+      "engineering_graphics",
+      "stress_analysis"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FME-11",
+    "name": "Dr. Shahzad Ahmad",
+    "department": "FME",
+    "domain_tags": [
+      "manufacturing",
+      "stress_analysis",
+      "mechanics_of_solids"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FME-12",
+    "name": "Dr. Muhammad Shakeel Afzal",
+    "department": "FME",
+    "domain_tags": [
+      "mechanics",
+      "stress_analysis",
+      "manufacturing"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FME-13",
+    "name": "Dr. Omer Ahmed Qureshi",
+    "department": "FME",
+    "domain_tags": [
+      "thermodynamics",
+      "heat_transfer",
+      "fluid_mechanics"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FME-14",
+    "name": "Mr. Faheem Ahmed",
+    "department": "FME",
+    "domain_tags": [
+      "thermodynamics",
+      "fluid_mechanics",
+      "heat_transfer"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FME-15",
+    "name": "Mr. Hamza Abbas",
+    "department": "FME",
+    "domain_tags": [
+      "thermodynamics",
+      "fluid_mechanics",
+      "heat_transfer"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FME-16",
+    "name": "Muhammad Shahab Alam",
+    "department": "FME",
+    "domain_tags": [
+      "robotics",
+      "computer_vision",
+      "machine_learning"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-FME-17",
+    "name": "Syed Salman Shah",
+    "department": "FME",
+    "domain_tags": [
+      "ai",
+      "machine_learning",
+      "deep_learning",
+      "robotics"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-MM-01",
+    "name": "Prof. Dr. F. Ahmad Khalid",
+    "department": "FMCE",
+    "domain_tags": [
+      "materials_science",
+      "nanotechnology",
+      "materials_lab"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-MM-02",
+    "name": "Prof. Dr. Fahd Nawaz Khan",
+    "department": "FMCE",
+    "domain_tags": [
+      "manufacturing_mm",
+      "materials_science"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-MM-03",
+    "name": "Dr. Muhammad Imran Khan",
+    "department": "FMCE",
+    "domain_tags": [
+      "materials_science",
+      "nanotechnology",
+      "materials_lab"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-MM-04",
+    "name": "Dr. Muhammad Ramzan Abdul Karim",
+    "department": "FMCE",
+    "domain_tags": [
+      "materials_science",
+      "materials_chemistry",
+      "materials_lab"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-MM-05",
+    "name": "Dr. Rashid Ali",
+    "department": "FMCE",
+    "domain_tags": [
+      "materials_science",
+      "strength_materials",
+      "materials_lab"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-MM-06",
+    "name": "Dr. Syed Zameer Abbas",
+    "department": "FMCE",
+    "domain_tags": [
+      "materials_science",
+      "materials_lab",
+      "phase_equilibria"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-MM-07",
+    "name": "Dr. Shanza Rehan",
+    "department": "FMCE",
+    "domain_tags": [
+      "materials_science",
+      "materials_lab",
+      "nanotechnology"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-MM-08",
+    "name": "Dr. Mohsin Ali Marwat",
+    "department": "FMCE",
+    "domain_tags": [
+      "materials_science",
+      "nanotechnology",
+      "materials_chemistry",
+      "ceramics"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-MM-09",
+    "name": "Dr. Hamza Mohsin",
+    "department": "FMCE",
+    "domain_tags": [
+      "materials_chemistry",
+      "nanotechnology",
+      "materials_lab"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-MM-10",
+    "name": "Dr. Tauheed Shehbaz",
+    "department": "FMCE",
+    "domain_tags": [
+      "materials_science",
+      "strength_materials",
+      "manufacturing_mm",
+      "materials_lab"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-MM-11",
+    "name": "Abdullah Khan",
+    "department": "FMCE",
+    "domain_tags": [
+      "materials_science",
+      "nanotechnology",
+      "materials_lab",
+      "xrd"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-MM-12",
+    "name": "Atteeq-uz-Zaman",
+    "department": "FMCE",
+    "domain_tags": [
+      "materials_lab"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-MM-13",
+    "name": "Muhammad Umair Naseer",
+    "department": "FMCE",
+    "domain_tags": [
+      "manufacturing_mm",
+      "materials_lab"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-CV-01",
+    "name": "Prof. Dr. Muhammad Ashraf Tanoli",
+    "department": "CIVIL",
+    "domain_tags": [
+      "concrete_technology",
+      "construction",
+      "environmental_engineering_cv"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-CV-02",
+    "name": "Dr. Muhammad Faisal Javed",
+    "department": "CIVIL",
+    "domain_tags": [
+      "machine_learning",
+      "structural_analysis",
+      "concrete_technology"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-CV-03",
+    "name": "Dr. Shiraz Ahmed",
+    "department": "CIVIL",
+    "domain_tags": [
+      "transportation",
+      "highway"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-CV-04",
+    "name": "Dr. Hafiz Ahmed Waqas",
+    "department": "CIVIL",
+    "domain_tags": [
+      "structural_analysis",
+      "mechanics_of_solids",
+      "rc_design"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-CV-05",
+    "name": "Dr. Muhammad Waseem",
+    "department": "CIVIL",
+    "domain_tags": [
+      "hydrology",
+      "fluid_mechanics_cv"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-CV-06",
+    "name": "Dr. Abdul Wahab",
+    "department": "CIVIL",
+    "domain_tags": [
+      "construction",
+      "construction_management"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-CV-07",
+    "name": "Dr. Abu Bakr Jamil",
+    "department": "CIVIL",
+    "domain_tags": [
+      "geotechnical",
+      "soil_mechanics",
+      "geology"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-CV-08",
+    "name": "Dr. Zeeshan Asghar",
+    "department": "CIVIL",
+    "domain_tags": [
+      "hydrology",
+      "fluid_mechanics_cv"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-CV-09",
+    "name": "Dr. Adnan Akmal",
+    "department": "CIVIL",
+    "domain_tags": [
+      "structural_analysis"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-CV-10",
+    "name": "Engr. Haidar Ali",
+    "department": "CIVIL",
+    "domain_tags": [
+      "structural_analysis",
+      "mechanics_of_solids",
+      "rc_design"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-CV-11",
+    "name": "Syed Aizaz Haider",
+    "department": "CIVIL",
+    "domain_tags": [
+      "geotechnical",
+      "soil_mechanics"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-CV-12",
+    "name": "Shahzad Ahmed",
+    "department": "CIVIL",
+    "domain_tags": [
+      "construction",
+      "geo_informatics"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-CV-13",
+    "name": "Muntazir Abbas",
+    "department": "CIVIL",
+    "domain_tags": [
+      "structural_analysis",
+      "concrete_technology",
+      "mechanics_of_solids"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-CV-14",
+    "name": "Dr. Khawar Rehman",
+    "department": "CIVIL",
+    "domain_tags": [
+      "fluid_mechanics_cv",
+      "hydrology",
+      "environmental_engineering_cv"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-CV-15",
+    "name": "Dr. Numan Khan",
+    "department": "CIVIL",
+    "domain_tags": [
+      "construction",
+      "geo_informatics",
+      "construction_management"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-SM-01",
+    "name": "Prof. Dr. Sami Farooq",
+    "department": "SMS",
+    "domain_tags": [
+      "supply_chain",
+      "operations_management"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-SM-02",
+    "name": "Prof. Dr. Muhammad Sabir",
+    "department": "SMS",
+    "domain_tags": [
+      "economics",
+      "supply_chain",
+      "operations_management"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-SM-03",
+    "name": "Dr. Abid Ullah",
+    "department": "SMS",
+    "domain_tags": [
+      "entrepreneurship",
+      "management"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-SM-04",
+    "name": "Izhar Ali",
+    "department": "SMS",
+    "domain_tags": [
+      "law",
+      "ethics",
+      "professional_ethics"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-SM-05",
+    "name": "Dr. Suhaib",
+    "department": "SMS",
+    "domain_tags": [
+      "supply_chain",
+      "operations_management",
+      "decision_analysis"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-SM-06",
+    "name": "Dr. Saima Aftab",
+    "department": "SMS",
+    "domain_tags": [
+      "hrm",
+      "management",
+      "leadership"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-SM-07",
+    "name": "Dr. Noshaba Zulfiqar",
+    "department": "SMS",
+    "domain_tags": [
+      "financial_management",
+      "business_finance",
+      "accounting"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-SM-08",
+    "name": "Dr. Shakir Sardar",
+    "department": "SMS",
+    "domain_tags": [
+      "marketing",
+      "management",
+      "research_methods"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-SM-09",
+    "name": "Dr. Sajid Khan",
+    "department": "SMS",
+    "domain_tags": [
+      "hrm",
+      "management",
+      "ethics",
+      "leadership"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-SM-10",
+    "name": "Dr. Rubeena Slamat",
+    "department": "SMS",
+    "domain_tags": [
+      "research_methods",
+      "sociology"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-SM-11",
+    "name": "Dr. Muhammad Shariq",
+    "department": "SMS",
+    "domain_tags": [
+      "financial_management",
+      "business_finance",
+      "accounting"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-SM-12",
+    "name": "Dr. Amin Ullah Khan",
+    "department": "SMS",
+    "domain_tags": [
+      "supply_chain",
+      "operations_management",
+      "decision_analysis"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-SM-13",
+    "name": "Mr. Hassaan Tariq",
+    "department": "SMS",
+    "domain_tags": [
+      "supply_chain",
+      "operations_management"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-SM-14",
+    "name": "Ms. Umme Rabab Syed",
+    "department": "SMS",
+    "domain_tags": [
+      "economics",
+      "business_finance",
+      "accounting"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-SM-15",
+    "name": "Ms. Hira Ahad",
+    "department": "SMS",
+    "domain_tags": [
+      "communication_skills",
+      "writing",
+      "humanities"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-SM-16",
+    "name": "Mr. Atta Ur Rehman Jadoon",
+    "department": "SMS",
+    "domain_tags": [
+      "communication_skills",
+      "writing",
+      "critical_thinking"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-SM-17",
+    "name": "Mr. Abrar Ahmad",
+    "department": "SMS",
+    "domain_tags": [
+      "communication_skills",
+      "writing",
+      "law"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-SM-18",
+    "name": "Mr. Haseeb Ahsan",
+    "department": "SMS",
+    "domain_tags": [
+      "communication_skills",
+      "writing",
+      "critical_thinking"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-SM-19",
+    "name": "Haroon Ur Rashid",
+    "department": "SMS",
+    "domain_tags": [
+      "hrm",
+      "management",
+      "entrepreneurship"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-SM-20",
+    "name": "Mr. Fida Ur Rahman",
+    "department": "SMS",
+    "domain_tags": [
+      "islamic_studies",
+      "sociology",
+      "humanities"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-SM-21",
+    "name": "Ms. Naveen Gul Yousafzai",
+    "department": "SMS",
+    "domain_tags": [
+      "marketing",
+      "consumer_behavior"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-SM-22",
+    "name": "Mr. Ayman Habib",
+    "department": "SMS",
+    "domain_tags": [
+      "marketing",
+      "business_analytics"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-SM-23",
+    "name": "Mr. Muhammad Umer Saeed",
+    "department": "SMS",
+    "domain_tags": [
+      "economics",
+      "business_mathematics"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-SM-24",
+    "name": "Mr. Ahmad Zaka",
+    "department": "SMS",
+    "domain_tags": [
+      "management",
+      "entrepreneurship"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-BS-01",
+    "name": "Prof. Dr. Nisar Ahmed",
+    "department": "BASIC_SCIENCE",
+    "domain_tags": [
+      "control_systems",
+      "numerical_analysis",
+      "mathematics"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-BS-02",
+    "name": "Prof. Dr. Zia ul Haq Abbas",
+    "department": "BASIC_SCIENCE",
+    "domain_tags": [
+      "ict",
+      "networks",
+      "dsp",
+      "computing"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-BS-03",
+    "name": "Prof. Dr. Sirajul Haq",
+    "department": "BASIC_SCIENCE",
+    "domain_tags": [
+      "numerical_analysis",
+      "mathematics"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-BS-04",
+    "name": "Dr. Muhammad Zahir Iqbal",
+    "department": "BASIC_SCIENCE",
+    "domain_tags": [
+      "physics",
+      "applied_physics"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-BS-05",
+    "name": "Dr. Muhammad Usman",
+    "department": "BASIC_SCIENCE",
+    "domain_tags": [
+      "applied_physics",
+      "electronic_devices"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-BS-06",
+    "name": "Dr. Usman Habib",
+    "department": "BASIC_SCIENCE",
+    "domain_tags": [
+      "physics",
+      "applied_physics"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-BS-07",
+    "name": "Dr. Minhaj Zaheer",
+    "department": "BASIC_SCIENCE",
+    "domain_tags": [
+      "applied_ee",
+      "electric_machines",
+      "control_systems"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-BS-08",
+    "name": "Dr. Nasir Javed",
+    "department": "BASIC_SCIENCE",
+    "domain_tags": [
+      "applied_physics",
+      "nanotechnology"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-BS-09",
+    "name": "Dr. Babar Zaman",
+    "department": "BASIC_SCIENCE",
+    "domain_tags": [
+      "statistics",
+      "probability"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-BS-10",
+    "name": "Dr. Tahir Naseem",
+    "department": "BASIC_SCIENCE",
+    "domain_tags": [
+      "physics",
+      "applied_physics"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-BS-11",
+    "name": "Dr. Zahid Ahmed",
+    "department": "BASIC_SCIENCE",
+    "domain_tags": [
+      "numerical_analysis",
+      "mathematics",
+      "calculus"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-BS-12",
+    "name": "Dr. Mahnoor Sarfraz",
+    "department": "BASIC_SCIENCE",
+    "domain_tags": [
+      "mathematics",
+      "calculus",
+      "numerical_analysis",
+      "differential_equations"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-BS-13",
+    "name": "Dr. Sheharyar Pervaiz",
+    "department": "BASIC_SCIENCE",
+    "domain_tags": [
+      "mathematics",
+      "physics"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-BS-14",
+    "name": "Dr. Danyal Ahmad",
+    "department": "BASIC_SCIENCE",
+    "domain_tags": [
+      "numerical_analysis",
+      "linear_algebra",
+      "mathematics"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-BS-15",
+    "name": "Dr. Taj Munir",
+    "department": "BASIC_SCIENCE",
+    "domain_tags": [
+      "mathematics",
+      "numerical_analysis",
+      "differential_equations"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-BS-16",
+    "name": "Muhammad Saqib",
+    "department": "BASIC_SCIENCE",
+    "domain_tags": [
+      "applied_physics",
+      "instrumentation"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-BS-17",
+    "name": "Mazhar Javed",
+    "department": "BASIC_SCIENCE",
+    "domain_tags": [
+      "physics",
+      "applied_physics"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-BS-18",
+    "name": "Asif Ahmad",
+    "department": "BASIC_SCIENCE",
+    "domain_tags": [
+      "machine_learning",
+      "deep_learning",
+      "mathematics"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-BS-19",
+    "name": "Engr. Muhammad Sadiq",
+    "department": "BASIC_SCIENCE",
+    "domain_tags": [
+      "control_systems",
+      "machine_learning",
+      "mathematics"
+    ],
+    "max_sessions_per_week": 15
+  },
+  {
+    "id": "T-BS-20",
+    "name": "Muhammad Muti ur Rehman",
+    "department": "BASIC_SCIENCE",
+    "domain_tags": [
+      "mathematics"
+    ],
+    "max_sessions_per_week": 15
+  }
+]

@@ -1,0 +1,352 @@
+[
+  {
+    "id": "FCSE-CS-LH1",
+    "name": "CS LH1",
+    "capacity": 55,
+    "room_type": "LECTURE_HALL",
+    "department": "FCSE"
+  },
+  {
+    "id": "FCSE-CS-LH2",
+    "name": "CS LH2",
+    "capacity": 55,
+    "room_type": "LECTURE_HALL",
+    "department": "FCSE"
+  },
+  {
+    "id": "FCSE-CS-LH3",
+    "name": "CS LH3",
+    "capacity": 55,
+    "room_type": "LECTURE_HALL",
+    "department": "FCSE"
+  },
+  {
+    "id": "FCSE-SE-Lab",
+    "name": "SE Lab",
+    "capacity": 45,
+    "room_type": "LAB",
+    "department": "FCSE"
+  },
+  {
+    "id": "FEE-EE-LH4",
+    "name": "EE LH4",
+    "capacity": 55,
+    "room_type": "LECTURE_HALL",
+    "department": "FEE"
+  },
+  {
+    "id": "FEE-EE-LH5",
+    "name": "EE LH5",
+    "capacity": 55,
+    "room_type": "LECTURE_HALL",
+    "department": "FEE"
+  },
+  {
+    "id": "FEE-EE-LH6",
+    "name": "EE LH6",
+    "capacity": 55,
+    "room_type": "LECTURE_HALL",
+    "department": "FEE"
+  },
+  {
+    "id": "FEE-EE-Main",
+    "name": "EE Main",
+    "capacity": 120,
+    "room_type": "LECTURE_HALL",
+    "department": "FEE"
+  },
+  {
+    "id": "BS-ES-LH1",
+    "name": "ES LH1",
+    "capacity": 55,
+    "room_type": "LECTURE_HALL",
+    "department": "BASIC_SCIENCE"
+  },
+  {
+    "id": "BS-ES-LH2",
+    "name": "ES LH2",
+    "capacity": 55,
+    "room_type": "LECTURE_HALL",
+    "department": "BASIC_SCIENCE"
+  },
+  {
+    "id": "BS-ES-LH3",
+    "name": "ES LH3",
+    "capacity": 55,
+    "room_type": "LECTURE_HALL",
+    "department": "BASIC_SCIENCE"
+  },
+  {
+    "id": "BS-ES-Main",
+    "name": "ES Main",
+    "capacity": 120,
+    "room_type": "LECTURE_HALL",
+    "department": "BASIC_SCIENCE"
+  },
+  {
+    "id": "BS-PC-Lab",
+    "name": "PC Lab",
+    "capacity": 45,
+    "room_type": "LAB",
+    "department": "BASIC_SCIENCE"
+  },
+  {
+    "id": "BS-PH-Lab",
+    "name": "PH Lab",
+    "capacity": 45,
+    "room_type": "LAB",
+    "department": "BASIC_SCIENCE"
+  },
+  {
+    "id": "COMMON-AcB-LH1",
+    "name": "AcB LH1",
+    "capacity": 90,
+    "room_type": "LECTURE_HALL",
+    "department": "COMMON"
+  },
+  {
+    "id": "COMMON-AcB-LH2",
+    "name": "AcB LH2",
+    "capacity": 90,
+    "room_type": "LECTURE_HALL",
+    "department": "COMMON"
+  },
+  {
+    "id": "COMMON-AcB-LH3",
+    "name": "AcB LH3",
+    "capacity": 90,
+    "room_type": "LECTURE_HALL",
+    "department": "COMMON"
+  },
+  {
+    "id": "COMMON-AcB-LH4",
+    "name": "AcB LH4",
+    "capacity": 90,
+    "room_type": "LECTURE_HALL",
+    "department": "COMMON"
+  },
+  {
+    "id": "COMMON-AcB-LH5",
+    "name": "AcB LH5",
+    "capacity": 90,
+    "room_type": "LECTURE_HALL",
+    "department": "COMMON"
+  },
+  {
+    "id": "COMMON-AcB-LH6",
+    "name": "AcB LH6",
+    "capacity": 90,
+    "room_type": "LECTURE_HALL",
+    "department": "COMMON"
+  },
+  {
+    "id": "COMMON-AcB-LH7",
+    "name": "AcB LH7",
+    "capacity": 90,
+    "room_type": "LECTURE_HALL",
+    "department": "COMMON"
+  },
+  {
+    "id": "COMMON-AcB-LH8",
+    "name": "AcB LH8",
+    "capacity": 90,
+    "room_type": "LECTURE_HALL",
+    "department": "COMMON"
+  },
+  {
+    "id": "COMMON-AcB-LH9",
+    "name": "AcB LH9",
+    "capacity": 90,
+    "room_type": "LECTURE_HALL",
+    "department": "COMMON"
+  },
+  {
+    "id": "COMMON-AcB-LH10",
+    "name": "AcB LH10",
+    "capacity": 90,
+    "room_type": "LECTURE_HALL",
+    "department": "COMMON"
+  },
+  {
+    "id": "COMMON-AcB-LH11",
+    "name": "AcB LH11",
+    "capacity": 90,
+    "room_type": "LECTURE_HALL",
+    "department": "COMMON"
+  },
+  {
+    "id": "COMMON-AcB-LH12",
+    "name": "AcB LH12",
+    "capacity": 90,
+    "room_type": "LECTURE_HALL",
+    "department": "COMMON"
+  },
+  {
+    "id": "COMMON-AcB-Main1",
+    "name": "AcB Main1",
+    "capacity": 200,
+    "room_type": "LECTURE_HALL",
+    "department": "COMMON"
+  },
+  {
+    "id": "COMMON-AcB-Main2",
+    "name": "AcB Main2",
+    "capacity": 200,
+    "room_type": "LECTURE_HALL",
+    "department": "COMMON"
+  },
+  {
+    "id": "COMMON-AcB-Main3",
+    "name": "AcB Main3",
+    "capacity": 200,
+    "room_type": "LECTURE_HALL",
+    "department": "COMMON"
+  },
+  {
+    "id": "COMMON-Sim-Lab",
+    "name": "Sim Lab",
+    "capacity": 50,
+    "room_type": "LAB",
+    "department": "COMMON"
+  },
+  {
+    "id": "COMMON-Incubator",
+    "name": "Incubator",
+    "capacity": 45,
+    "room_type": "LAB",
+    "department": "COMMON"
+  },
+  {
+    "id": "COMMON-Seminar-Hall",
+    "name": "Seminar Hall",
+    "capacity": 150,
+    "room_type": "SEMINAR",
+    "department": "COMMON"
+  },
+  {
+    "id": "SMS-BB-Main",
+    "name": "BB Main",
+    "capacity": 120,
+    "room_type": "LECTURE_HALL",
+    "department": "SMS"
+  },
+  {
+    "id": "SMS-BB-LH2",
+    "name": "BB LH2",
+    "capacity": 120,
+    "room_type": "LECTURE_HALL",
+    "department": "SMS"
+  },
+  {
+    "id": "SMS-BB-EH1",
+    "name": "BB EH1",
+    "capacity": 110,
+    "room_type": "LECTURE_HALL",
+    "department": "SMS"
+  },
+  {
+    "id": "SMS-BB-EH2",
+    "name": "BB EH2",
+    "capacity": 110,
+    "room_type": "LECTURE_HALL",
+    "department": "SMS"
+  },
+  {
+    "id": "SMS-BB-EH3",
+    "name": "BB EH3",
+    "capacity": 110,
+    "room_type": "LECTURE_HALL",
+    "department": "SMS"
+  },
+  {
+    "id": "SMS-BB-EH4",
+    "name": "BB EH4",
+    "capacity": 110,
+    "room_type": "LECTURE_HALL",
+    "department": "SMS"
+  },
+  {
+    "id": "SMS-Old-PC-Lab",
+    "name": "Old PC Lab",
+    "capacity": 50,
+    "room_type": "LAB",
+    "department": "SMS"
+  },
+  {
+    "id": "SMS-New-PC-Lab",
+    "name": "New PC Lab",
+    "capacity": 50,
+    "room_type": "LAB",
+    "department": "SMS"
+  },
+  {
+    "id": "FME-ME-LH1",
+    "name": "ME LH1",
+    "capacity": 55,
+    "room_type": "LECTURE_HALL",
+    "department": "FME"
+  },
+  {
+    "id": "FME-ME-LH2",
+    "name": "ME LH2",
+    "capacity": 55,
+    "room_type": "LECTURE_HALL",
+    "department": "FME"
+  },
+  {
+    "id": "FME-ME-LH3",
+    "name": "ME LH3",
+    "capacity": 55,
+    "room_type": "LECTURE_HALL",
+    "department": "FME"
+  },
+  {
+    "id": "FME-ME-Main",
+    "name": "ME Main",
+    "capacity": 120,
+    "room_type": "LECTURE_HALL",
+    "department": "FME"
+  },
+  {
+    "id": "FMCE-MCE-LH1",
+    "name": "MCE LH1",
+    "capacity": 55,
+    "room_type": "LECTURE_HALL",
+    "department": "FMCE"
+  },
+  {
+    "id": "FMCE-MCE-LH2",
+    "name": "MCE LH2",
+    "capacity": 55,
+    "room_type": "LECTURE_HALL",
+    "department": "FMCE"
+  },
+  {
+    "id": "FMCE-MCE-LH3",
+    "name": "MCE LH3",
+    "capacity": 55,
+    "room_type": "LECTURE_HALL",
+    "department": "FMCE"
+  },
+  {
+    "id": "FMCE-MCE-LH4",
+    "name": "MCE LH4",
+    "capacity": 55,
+    "room_type": "LECTURE_HALL",
+    "department": "FMCE"
+  },
+  {
+    "id": "FMCE-MCE-Main",
+    "name": "MCE Main",
+    "capacity": 120,
+    "room_type": "LECTURE_HALL",
+    "department": "FMCE"
+  },
+  {
+    "id": "FMCE-Mat-Lab",
+    "name": "Mat. Lab",
+    "capacity": 45,
+    "room_type": "LAB",
+    "department": "FMCE"
+  }
+]

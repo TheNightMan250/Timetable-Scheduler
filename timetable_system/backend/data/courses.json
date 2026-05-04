@@ -1,0 +1,3760 @@
+[
+  {
+    "code": "CS101",
+    "name": "Computing & Artificial Intelligence",
+    "credit_hours": 2,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 2,
+    "semester": 1,
+    "is_elective": false,
+    "domain_tags": [
+      "computing",
+      "intro_programming",
+      "ai"
+    ]
+  },
+  {
+    "code": "CS101L",
+    "name": "Computing & AI Lab",
+    "credit_hours": 1,
+    "department": "FCSE",
+    "is_lab": true,
+    "sessions_per_week": 1,
+    "semester": 1,
+    "is_elective": false,
+    "domain_tags": [
+      "computing",
+      "intro_programming"
+    ]
+  },
+  {
+    "code": "HM101",
+    "name": "Communication Skills",
+    "credit_hours": 3,
+    "department": "SMS",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 1,
+    "is_elective": false,
+    "domain_tags": [
+      "communication_skills",
+      "writing"
+    ]
+  },
+  {
+    "code": "IF101L",
+    "name": "Innovation & Makers Lab I",
+    "credit_hours": 1,
+    "department": "SMS",
+    "is_lab": true,
+    "sessions_per_week": 1,
+    "semester": 1,
+    "is_elective": false,
+    "domain_tags": [
+      "innovation_lab",
+      "makers_lab"
+    ]
+  },
+  {
+    "code": "MT101",
+    "name": "Calculus I",
+    "credit_hours": 3,
+    "department": "BASIC_SCIENCE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 1,
+    "is_elective": false,
+    "domain_tags": [
+      "calculus",
+      "mathematics"
+    ]
+  },
+  {
+    "code": "PH101",
+    "name": "Applied Physics",
+    "credit_hours": 3,
+    "department": "BASIC_SCIENCE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 1,
+    "is_elective": false,
+    "domain_tags": [
+      "physics",
+      "applied_physics"
+    ]
+  },
+  {
+    "code": "PH101L",
+    "name": "Applied Physics Lab",
+    "credit_hours": 1,
+    "department": "BASIC_SCIENCE",
+    "is_lab": true,
+    "sessions_per_week": 1,
+    "semester": 1,
+    "is_elective": false,
+    "domain_tags": [
+      "physics",
+      "applied_physics"
+    ]
+  },
+  {
+    "code": "MM101",
+    "name": "Materials, Nanotech & Sustainability",
+    "credit_hours": 2,
+    "department": "FMCE",
+    "is_lab": false,
+    "sessions_per_week": 2,
+    "semester": 1,
+    "is_elective": false,
+    "domain_tags": [
+      "materials_science",
+      "nanotechnology"
+    ]
+  },
+  {
+    "code": "MM141L",
+    "name": "Materials Lab",
+    "credit_hours": 1,
+    "department": "FMCE",
+    "is_lab": true,
+    "sessions_per_week": 1,
+    "semester": 1,
+    "is_elective": false,
+    "domain_tags": [
+      "materials_lab"
+    ]
+  },
+  {
+    "code": "CH101",
+    "name": "Chemistry, Environment & Climate Change",
+    "credit_hours": 2,
+    "department": "BASIC_SCIENCE",
+    "is_lab": false,
+    "sessions_per_week": 2,
+    "semester": 2,
+    "is_elective": false,
+    "domain_tags": [
+      "chemistry",
+      "environmental_engineering"
+    ]
+  },
+  {
+    "code": "CH161",
+    "name": "Occupational Health & Safety",
+    "credit_hours": 1,
+    "department": "BASIC_SCIENCE",
+    "is_lab": false,
+    "sessions_per_week": 1,
+    "semester": 2,
+    "is_elective": false,
+    "domain_tags": [
+      "occupational_health"
+    ]
+  },
+  {
+    "code": "CS112",
+    "name": "Object-oriented Programming & Design",
+    "credit_hours": 2,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 2,
+    "semester": 2,
+    "is_elective": false,
+    "domain_tags": [
+      "oop",
+      "intro_programming"
+    ]
+  },
+  {
+    "code": "CS112L",
+    "name": "OOP Lab",
+    "credit_hours": 1,
+    "department": "FCSE",
+    "is_lab": true,
+    "sessions_per_week": 1,
+    "semester": 2,
+    "is_elective": false,
+    "domain_tags": [
+      "oop"
+    ]
+  },
+  {
+    "code": "AI102",
+    "name": "Python & Freelancing Essentials",
+    "credit_hours": 1,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 1,
+    "semester": 2,
+    "is_elective": false,
+    "domain_tags": [
+      "intro_programming"
+    ]
+  },
+  {
+    "code": "ES111",
+    "name": "Probability & Statistics",
+    "credit_hours": 3,
+    "department": "BASIC_SCIENCE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 2,
+    "is_elective": false,
+    "domain_tags": [
+      "statistics",
+      "probability"
+    ]
+  },
+  {
+    "code": "HM102",
+    "name": "Critical Thinking & Expository Writing",
+    "credit_hours": 3,
+    "department": "SMS",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 2,
+    "is_elective": false,
+    "domain_tags": [
+      "critical_thinking",
+      "writing"
+    ]
+  },
+  {
+    "code": "IF102L",
+    "name": "Innovation & Makers Lab II",
+    "credit_hours": 1,
+    "department": "SMS",
+    "is_lab": true,
+    "sessions_per_week": 1,
+    "semester": 2,
+    "is_elective": false,
+    "domain_tags": [
+      "innovation_lab",
+      "makers_lab"
+    ]
+  },
+  {
+    "code": "MT102",
+    "name": "Differential Equations & Linear Algebra I",
+    "credit_hours": 3,
+    "department": "BASIC_SCIENCE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 2,
+    "is_elective": false,
+    "domain_tags": [
+      "differential_equations",
+      "linear_algebra",
+      "mathematics"
+    ]
+  },
+  {
+    "code": "CS221",
+    "name": "Digital Logic Design",
+    "credit_hours": 3,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 3,
+    "is_elective": false,
+    "domain_tags": [
+      "digital_logic"
+    ]
+  },
+  {
+    "code": "CS221L",
+    "name": "Digital Logic Design Lab",
+    "credit_hours": 1,
+    "department": "FCSE",
+    "is_lab": true,
+    "sessions_per_week": 1,
+    "semester": 3,
+    "is_elective": false,
+    "domain_tags": [
+      "digital_logic"
+    ]
+  },
+  {
+    "code": "CS202",
+    "name": "ICT",
+    "credit_hours": 2,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 2,
+    "semester": 3,
+    "is_elective": false,
+    "domain_tags": [
+      "ict",
+      "computing"
+    ]
+  },
+  {
+    "code": "CS222",
+    "name": "Data Structures & Algorithms",
+    "credit_hours": 3,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 3,
+    "is_elective": false,
+    "domain_tags": [
+      "data_structures",
+      "algorithms"
+    ]
+  },
+  {
+    "code": "CS222L",
+    "name": "Data Structures Lab",
+    "credit_hours": 1,
+    "department": "FCSE",
+    "is_lab": true,
+    "sessions_per_week": 1,
+    "semester": 3,
+    "is_elective": false,
+    "domain_tags": [
+      "data_structures"
+    ]
+  },
+  {
+    "code": "CS231",
+    "name": "Discrete Mathematics",
+    "credit_hours": 3,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 3,
+    "is_elective": false,
+    "domain_tags": [
+      "discrete_math"
+    ]
+  },
+  {
+    "code": "ES205",
+    "name": "Advanced Linear Algebra",
+    "credit_hours": 3,
+    "department": "BASIC_SCIENCE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 3,
+    "is_elective": false,
+    "domain_tags": [
+      "linear_algebra",
+      "mathematics"
+    ]
+  },
+  {
+    "code": "HM212",
+    "name": "Pakistan Studies",
+    "credit_hours": 2,
+    "department": "SMS",
+    "is_lab": false,
+    "sessions_per_week": 2,
+    "semester": 3,
+    "is_elective": false,
+    "domain_tags": [
+      "pakistan_studies"
+    ]
+  },
+  {
+    "code": "CS223",
+    "name": "Computer Organization & Assembly Language",
+    "credit_hours": 3,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 4,
+    "is_elective": false,
+    "domain_tags": [
+      "computer_organization"
+    ]
+  },
+  {
+    "code": "CS223L",
+    "name": "Computer Organization Lab",
+    "credit_hours": 1,
+    "department": "FCSE",
+    "is_lab": true,
+    "sessions_per_week": 1,
+    "semester": 4,
+    "is_elective": false,
+    "domain_tags": [
+      "computer_organization"
+    ]
+  },
+  {
+    "code": "AI202",
+    "name": "Concepts in AI",
+    "credit_hours": 3,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 4,
+    "is_elective": false,
+    "domain_tags": [
+      "ai"
+    ]
+  },
+  {
+    "code": "AI202L",
+    "name": "AI Concepts Lab",
+    "credit_hours": 1,
+    "department": "FCSE",
+    "is_lab": true,
+    "sessions_per_week": 1,
+    "semester": 4,
+    "is_elective": false,
+    "domain_tags": [
+      "ai"
+    ]
+  },
+  {
+    "code": "CS232",
+    "name": "Database Management Systems",
+    "credit_hours": 3,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 4,
+    "is_elective": false,
+    "domain_tags": [
+      "databases"
+    ]
+  },
+  {
+    "code": "CS232L",
+    "name": "DBMS Lab",
+    "credit_hours": 1,
+    "department": "FCSE",
+    "is_lab": true,
+    "sessions_per_week": 1,
+    "semester": 4,
+    "is_elective": false,
+    "domain_tags": [
+      "databases"
+    ]
+  },
+  {
+    "code": "CS225",
+    "name": "Software Engineering",
+    "credit_hours": 3,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 4,
+    "is_elective": false,
+    "domain_tags": [
+      "software_engineering"
+    ]
+  },
+  {
+    "code": "HM211",
+    "name": "Islamic Studies",
+    "credit_hours": 2,
+    "department": "SMS",
+    "is_lab": false,
+    "sessions_per_week": 2,
+    "semester": 4,
+    "is_elective": false,
+    "domain_tags": [
+      "islamic_studies"
+    ]
+  },
+  {
+    "code": "CS311",
+    "name": "Operating Systems",
+    "credit_hours": 3,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 5,
+    "is_elective": false,
+    "domain_tags": [
+      "operating_systems"
+    ]
+  },
+  {
+    "code": "CS311L",
+    "name": "Operating Systems Lab",
+    "credit_hours": 1,
+    "department": "FCSE",
+    "is_lab": true,
+    "sessions_per_week": 1,
+    "semester": 5,
+    "is_elective": false,
+    "domain_tags": [
+      "operating_systems"
+    ]
+  },
+  {
+    "code": "CS378",
+    "name": "Design & Analysis of Algorithms",
+    "credit_hours": 3,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 5,
+    "is_elective": false,
+    "domain_tags": [
+      "algorithms",
+      "complexity"
+    ]
+  },
+  {
+    "code": "AI311",
+    "name": "Knowledge Representation & Problem Solving",
+    "credit_hours": 2,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 2,
+    "semester": 5,
+    "is_elective": false,
+    "domain_tags": [
+      "knowledge_representation",
+      "ai"
+    ]
+  },
+  {
+    "code": "AI312",
+    "name": "Machine Learning",
+    "credit_hours": 3,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 5,
+    "is_elective": false,
+    "domain_tags": [
+      "machine_learning",
+      "ai"
+    ]
+  },
+  {
+    "code": "AI312L",
+    "name": "Machine Learning Lab",
+    "credit_hours": 1,
+    "department": "FCSE",
+    "is_lab": true,
+    "sessions_per_week": 1,
+    "semester": 5,
+    "is_elective": false,
+    "domain_tags": [
+      "machine_learning"
+    ]
+  },
+  {
+    "code": "CS392",
+    "name": "Software Project Management",
+    "credit_hours": 2,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 2,
+    "semester": 5,
+    "is_elective": false,
+    "domain_tags": [
+      "project_management",
+      "software_engineering"
+    ]
+  },
+  {
+    "code": "HM3XX",
+    "name": "Entrepreneurship",
+    "credit_hours": 2,
+    "department": "SMS",
+    "is_lab": false,
+    "sessions_per_week": 2,
+    "semester": 5,
+    "is_elective": false,
+    "domain_tags": [
+      "entrepreneurship"
+    ]
+  },
+  {
+    "code": "CS313",
+    "name": "Computer Communications & Networks",
+    "credit_hours": 3,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 6,
+    "is_elective": false,
+    "domain_tags": [
+      "networks",
+      "communication_systems"
+    ]
+  },
+  {
+    "code": "CS313L",
+    "name": "Networks Lab",
+    "credit_hours": 1,
+    "department": "FCSE",
+    "is_lab": true,
+    "sessions_per_week": 1,
+    "semester": 6,
+    "is_elective": false,
+    "domain_tags": [
+      "networks"
+    ]
+  },
+  {
+    "code": "AI313",
+    "name": "Deep Neural Network",
+    "credit_hours": 3,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 6,
+    "is_elective": false,
+    "domain_tags": [
+      "deep_learning",
+      "neural_networks"
+    ]
+  },
+  {
+    "code": "AI313L",
+    "name": "DNN Lab",
+    "credit_hours": 1,
+    "department": "FCSE",
+    "is_lab": true,
+    "sessions_per_week": 1,
+    "semester": 6,
+    "is_elective": false,
+    "domain_tags": [
+      "deep_learning"
+    ]
+  },
+  {
+    "code": "HM4xx",
+    "name": "Technical & Business Writing",
+    "credit_hours": 2,
+    "department": "SMS",
+    "is_lab": false,
+    "sessions_per_week": 2,
+    "semester": 6,
+    "is_elective": false,
+    "domain_tags": [
+      "technical_writing",
+      "communication_skills"
+    ]
+  },
+  {
+    "code": "AI361",
+    "name": "Natural Language Processing",
+    "credit_hours": 3,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 7,
+    "is_elective": false,
+    "domain_tags": [
+      "nlp",
+      "ai"
+    ]
+  },
+  {
+    "code": "AI361L",
+    "name": "NLP Lab",
+    "credit_hours": 1,
+    "department": "FCSE",
+    "is_lab": true,
+    "sessions_per_week": 1,
+    "semester": 7,
+    "is_elective": false,
+    "domain_tags": [
+      "nlp"
+    ]
+  },
+  {
+    "code": "AI441",
+    "name": "Computer Vision",
+    "credit_hours": 3,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 7,
+    "is_elective": false,
+    "domain_tags": [
+      "computer_vision",
+      "ai"
+    ]
+  },
+  {
+    "code": "AI441L",
+    "name": "Computer Vision Lab",
+    "credit_hours": 1,
+    "department": "FCSE",
+    "is_lab": true,
+    "sessions_per_week": 1,
+    "semester": 7,
+    "is_elective": false,
+    "domain_tags": [
+      "computer_vision"
+    ]
+  },
+  {
+    "code": "CS417",
+    "name": "Parallel & Distributed Computing",
+    "credit_hours": 3,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 8,
+    "is_elective": false,
+    "domain_tags": [
+      "parallel_computing",
+      "distributed"
+    ]
+  },
+  {
+    "code": "CS417L",
+    "name": "Parallel & Distributed Computing Lab",
+    "credit_hours": 1,
+    "department": "FCSE",
+    "is_lab": true,
+    "sessions_per_week": 1,
+    "semester": 8,
+    "is_elective": false,
+    "domain_tags": [
+      "parallel_computing"
+    ]
+  },
+  {
+    "code": "CS465",
+    "name": "Data & Network Security",
+    "credit_hours": 3,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 8,
+    "is_elective": false,
+    "domain_tags": [
+      "cyber_security",
+      "information_security"
+    ]
+  },
+  {
+    "code": "CS482",
+    "name": "Senior Design Project-III",
+    "credit_hours": 2,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 2,
+    "semester": 8,
+    "is_elective": false,
+    "domain_tags": [
+      "project_management"
+    ]
+  },
+  {
+    "code": "HMxxx",
+    "name": "Corporate Law & Professional Ethics",
+    "credit_hours": 2,
+    "department": "SMS",
+    "is_lab": false,
+    "sessions_per_week": 2,
+    "semester": 8,
+    "is_elective": false,
+    "domain_tags": [
+      "law",
+      "professional_ethics"
+    ]
+  },
+  {
+    "code": "HM432",
+    "name": "Civics & Community Engagement",
+    "credit_hours": 1,
+    "department": "SMS",
+    "is_lab": false,
+    "sessions_per_week": 1,
+    "semester": 8,
+    "is_elective": false,
+    "domain_tags": [
+      "civics",
+      "sociology"
+    ]
+  },
+  {
+    "code": "HM413",
+    "name": "Understanding of Quran-I",
+    "credit_hours": 1,
+    "department": "SMS",
+    "is_lab": false,
+    "sessions_per_week": 1,
+    "semester": 7,
+    "is_elective": false,
+    "domain_tags": [
+      "understanding_quran"
+    ]
+  },
+  {
+    "code": "HM414",
+    "name": "Understanding of Quran-II",
+    "credit_hours": 1,
+    "department": "SMS",
+    "is_lab": false,
+    "sessions_per_week": 1,
+    "semester": 8,
+    "is_elective": false,
+    "domain_tags": [
+      "understanding_quran"
+    ]
+  },
+  {
+    "code": "AI3xx",
+    "name": "AI Domain Elective I",
+    "credit_hours": 3,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 6,
+    "is_elective": true,
+    "domain_tags": [
+      "ai"
+    ]
+  },
+  {
+    "code": "AI4xx",
+    "name": "AI Domain Elective II",
+    "credit_hours": 3,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 7,
+    "is_elective": true,
+    "domain_tags": [
+      "ai"
+    ]
+  },
+  {
+    "code": "CE211",
+    "name": "Circuit Analysis",
+    "credit_hours": 3,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 3,
+    "is_elective": false,
+    "domain_tags": [
+      "circuit_analysis"
+    ]
+  },
+  {
+    "code": "CE211L",
+    "name": "Circuit Analysis Lab",
+    "credit_hours": 1,
+    "department": "FCSE",
+    "is_lab": true,
+    "sessions_per_week": 1,
+    "semester": 3,
+    "is_elective": false,
+    "domain_tags": [
+      "circuit_analysis"
+    ]
+  },
+  {
+    "code": "CE221",
+    "name": "Digital Logic Design",
+    "credit_hours": 3,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 3,
+    "is_elective": false,
+    "domain_tags": [
+      "digital_logic"
+    ]
+  },
+  {
+    "code": "CE221L",
+    "name": "Digital Logic Design Lab",
+    "credit_hours": 1,
+    "department": "FCSE",
+    "is_lab": true,
+    "sessions_per_week": 1,
+    "semester": 3,
+    "is_elective": false,
+    "domain_tags": [
+      "digital_logic"
+    ]
+  },
+  {
+    "code": "CE222",
+    "name": "Computer Org. & Assembly",
+    "credit_hours": 3,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 4,
+    "is_elective": false,
+    "domain_tags": [
+      "computer_organization"
+    ]
+  },
+  {
+    "code": "CE222L",
+    "name": "Computer Org. Lab",
+    "credit_hours": 1,
+    "department": "FCSE",
+    "is_lab": true,
+    "sessions_per_week": 1,
+    "semester": 4,
+    "is_elective": false,
+    "domain_tags": [
+      "computer_organization"
+    ]
+  },
+  {
+    "code": "CE231",
+    "name": "Electronic Devices & Circuits",
+    "credit_hours": 3,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 4,
+    "is_elective": false,
+    "domain_tags": [
+      "electronic_devices",
+      "circuit_analysis"
+    ]
+  },
+  {
+    "code": "CE231L",
+    "name": "Electronic Devices Lab",
+    "credit_hours": 1,
+    "department": "FCSE",
+    "is_lab": true,
+    "sessions_per_week": 1,
+    "semester": 4,
+    "is_elective": false,
+    "domain_tags": [
+      "electronic_devices"
+    ]
+  },
+  {
+    "code": "CE324",
+    "name": "Microprocessor Interfacing",
+    "credit_hours": 3,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 5,
+    "is_elective": false,
+    "domain_tags": [
+      "microprocessor",
+      "embedded"
+    ]
+  },
+  {
+    "code": "CE324L",
+    "name": "Microprocessor Lab",
+    "credit_hours": 1,
+    "department": "FCSE",
+    "is_lab": true,
+    "sessions_per_week": 1,
+    "semester": 5,
+    "is_elective": false,
+    "domain_tags": [
+      "microprocessor"
+    ]
+  },
+  {
+    "code": "CE341",
+    "name": "Signals & Systems",
+    "credit_hours": 3,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 5,
+    "is_elective": false,
+    "domain_tags": [
+      "signals",
+      "dsp"
+    ]
+  },
+  {
+    "code": "CE341L",
+    "name": "Signals & Systems Lab",
+    "credit_hours": 1,
+    "department": "FCSE",
+    "is_lab": true,
+    "sessions_per_week": 1,
+    "semester": 5,
+    "is_elective": false,
+    "domain_tags": [
+      "signals"
+    ]
+  },
+  {
+    "code": "CE342",
+    "name": "Computational Methods",
+    "credit_hours": 3,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 6,
+    "is_elective": false,
+    "domain_tags": [
+      "numerical_analysis",
+      "computing"
+    ]
+  },
+  {
+    "code": "CE361",
+    "name": "Digital Signal Processing",
+    "credit_hours": 3,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 6,
+    "is_elective": false,
+    "domain_tags": [
+      "dsp",
+      "signals"
+    ]
+  },
+  {
+    "code": "CE361L",
+    "name": "DSP Lab",
+    "credit_hours": 1,
+    "department": "FCSE",
+    "is_lab": true,
+    "sessions_per_week": 1,
+    "semester": 6,
+    "is_elective": false,
+    "domain_tags": [
+      "dsp"
+    ]
+  },
+  {
+    "code": "CS361",
+    "name": "Computer Architecture",
+    "credit_hours": 3,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 6,
+    "is_elective": false,
+    "domain_tags": [
+      "computer_architecture"
+    ]
+  },
+  {
+    "code": "CE408",
+    "name": "Cloud Computing",
+    "credit_hours": 3,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 7,
+    "is_elective": false,
+    "domain_tags": [
+      "cloud",
+      "distributed"
+    ]
+  },
+  {
+    "code": "CE436",
+    "name": "Digital System Design",
+    "credit_hours": 3,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 7,
+    "is_elective": false,
+    "domain_tags": [
+      "digital_logic",
+      "hardware"
+    ]
+  },
+  {
+    "code": "CE436L",
+    "name": "Digital System Design Lab",
+    "credit_hours": 1,
+    "department": "FCSE",
+    "is_lab": true,
+    "sessions_per_week": 1,
+    "semester": 7,
+    "is_elective": false,
+    "domain_tags": [
+      "digital_logic"
+    ]
+  },
+  {
+    "code": "CS478",
+    "name": "Design & Analysis of Algorithms",
+    "credit_hours": 3,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 7,
+    "is_elective": false,
+    "domain_tags": [
+      "algorithms",
+      "complexity"
+    ]
+  },
+  {
+    "code": "CX4xx",
+    "name": "Area Elective I",
+    "credit_hours": 3,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 7,
+    "is_elective": true,
+    "domain_tags": []
+  },
+  {
+    "code": "CE4xx",
+    "name": "Technical Elective",
+    "credit_hours": 3,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 8,
+    "is_elective": true,
+    "domain_tags": []
+  },
+  {
+    "code": "CS224",
+    "name": "Formal Languages & Automata",
+    "credit_hours": 3,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 4,
+    "is_elective": false,
+    "domain_tags": [
+      "formal_languages",
+      "compiler"
+    ]
+  },
+  {
+    "code": "CS272",
+    "name": "UI/UX",
+    "credit_hours": 3,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 4,
+    "is_elective": false,
+    "domain_tags": [
+      "ui_ux",
+      "software_engineering"
+    ]
+  },
+  {
+    "code": "SE202L",
+    "name": "Dev Ops Lab",
+    "credit_hours": 1,
+    "department": "FCSE",
+    "is_lab": true,
+    "sessions_per_week": 1,
+    "semester": 4,
+    "is_elective": false,
+    "domain_tags": [
+      "devops"
+    ]
+  },
+  {
+    "code": "CS342",
+    "name": "Advanced DBMS",
+    "credit_hours": 3,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 5,
+    "is_elective": false,
+    "domain_tags": [
+      "advanced_dbms",
+      "databases"
+    ]
+  },
+  {
+    "code": "CS351",
+    "name": "Artificial Intelligence",
+    "credit_hours": 3,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 5,
+    "is_elective": false,
+    "domain_tags": [
+      "ai"
+    ]
+  },
+  {
+    "code": "CS351L",
+    "name": "AI Lab",
+    "credit_hours": 1,
+    "department": "FCSE",
+    "is_lab": true,
+    "sessions_per_week": 1,
+    "semester": 5,
+    "is_elective": false,
+    "domain_tags": [
+      "ai"
+    ]
+  },
+  {
+    "code": "CS324",
+    "name": "Computer Architecture",
+    "credit_hours": 3,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 6,
+    "is_elective": false,
+    "domain_tags": [
+      "computer_architecture"
+    ]
+  },
+  {
+    "code": "CS334",
+    "name": "Compiler Construction",
+    "credit_hours": 3,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 6,
+    "is_elective": false,
+    "domain_tags": [
+      "compiler",
+      "formal_languages"
+    ]
+  },
+  {
+    "code": "CS334L",
+    "name": "Compiler Lab",
+    "credit_hours": 1,
+    "department": "FCSE",
+    "is_lab": true,
+    "sessions_per_week": 1,
+    "semester": 6,
+    "is_elective": false,
+    "domain_tags": [
+      "compiler"
+    ]
+  },
+  {
+    "code": "CS312",
+    "name": "Web Development",
+    "credit_hours": 3,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 6,
+    "is_elective": false,
+    "domain_tags": [
+      "web_engineering"
+    ]
+  },
+  {
+    "code": "CS312L",
+    "name": "Web Dev Lab",
+    "credit_hours": 1,
+    "department": "FCSE",
+    "is_lab": true,
+    "sessions_per_week": 1,
+    "semester": 6,
+    "is_elective": false,
+    "domain_tags": [
+      "web_engineering"
+    ]
+  },
+  {
+    "code": "CS412",
+    "name": "Advanced DBMS",
+    "credit_hours": 3,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 7,
+    "is_elective": false,
+    "domain_tags": [
+      "advanced_dbms",
+      "databases"
+    ]
+  },
+  {
+    "code": "CS424",
+    "name": "Compiler Construction",
+    "credit_hours": 3,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 7,
+    "is_elective": false,
+    "domain_tags": [
+      "compiler"
+    ]
+  },
+  {
+    "code": "CS424L",
+    "name": "Compiler Lab",
+    "credit_hours": 1,
+    "department": "FCSE",
+    "is_lab": true,
+    "sessions_per_week": 1,
+    "semester": 7,
+    "is_elective": false,
+    "domain_tags": [
+      "compiler"
+    ]
+  },
+  {
+    "code": "CY201",
+    "name": "Cyber Security Principles",
+    "credit_hours": 3,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 4,
+    "is_elective": false,
+    "domain_tags": [
+      "cyber_security",
+      "information_security"
+    ]
+  },
+  {
+    "code": "CY211",
+    "name": "Information Security",
+    "credit_hours": 3,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 4,
+    "is_elective": false,
+    "domain_tags": [
+      "information_security"
+    ]
+  },
+  {
+    "code": "CY331",
+    "name": "Information Assurance",
+    "credit_hours": 2,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 2,
+    "semester": 6,
+    "is_elective": false,
+    "domain_tags": [
+      "information_security"
+    ]
+  },
+  {
+    "code": "CY341",
+    "name": "Digital Forensics",
+    "credit_hours": 3,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 6,
+    "is_elective": false,
+    "domain_tags": [
+      "digital_forensics"
+    ]
+  },
+  {
+    "code": "CY341L",
+    "name": "Digital Forensics Lab",
+    "credit_hours": 1,
+    "department": "FCSE",
+    "is_lab": true,
+    "sessions_per_week": 1,
+    "semester": 6,
+    "is_elective": false,
+    "domain_tags": [
+      "digital_forensics"
+    ]
+  },
+  {
+    "code": "CY392",
+    "name": "Project Management for CyS",
+    "credit_hours": 2,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 2,
+    "semester": 6,
+    "is_elective": false,
+    "domain_tags": [
+      "project_management"
+    ]
+  },
+  {
+    "code": "CY478",
+    "name": "Secure Software Design",
+    "credit_hours": 3,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 7,
+    "is_elective": false,
+    "domain_tags": [
+      "secure_software",
+      "software_engineering"
+    ]
+  },
+  {
+    "code": "CY478L",
+    "name": "Secure Software Design Lab",
+    "credit_hours": 1,
+    "department": "FCSE",
+    "is_lab": true,
+    "sessions_per_week": 1,
+    "semester": 7,
+    "is_elective": false,
+    "domain_tags": [
+      "secure_software"
+    ]
+  },
+  {
+    "code": "CY412",
+    "name": "Cryptography",
+    "credit_hours": 3,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 7,
+    "is_elective": false,
+    "domain_tags": [
+      "cryptography"
+    ]
+  },
+  {
+    "code": "CY412L",
+    "name": "Unix Administration",
+    "credit_hours": 1,
+    "department": "FCSE",
+    "is_lab": true,
+    "sessions_per_week": 1,
+    "semester": 7,
+    "is_elective": false,
+    "domain_tags": [
+      "unix_admin",
+      "operating_systems"
+    ]
+  },
+  {
+    "code": "CY424",
+    "name": "Ethical Hacking with AI",
+    "credit_hours": 3,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 8,
+    "is_elective": false,
+    "domain_tags": [
+      "ethical_hacking",
+      "cyber_security",
+      "ai"
+    ]
+  },
+  {
+    "code": "CY424L",
+    "name": "Ethical Hacking Lab",
+    "credit_hours": 1,
+    "department": "FCSE",
+    "is_lab": true,
+    "sessions_per_week": 1,
+    "semester": 8,
+    "is_elective": false,
+    "domain_tags": [
+      "ethical_hacking"
+    ]
+  },
+  {
+    "code": "CS365",
+    "name": "Data & Network Security",
+    "credit_hours": 3,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 5,
+    "is_elective": false,
+    "domain_tags": [
+      "cyber_security",
+      "networks"
+    ]
+  },
+  {
+    "code": "DS211",
+    "name": "Theory of Data Science",
+    "credit_hours": 3,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 4,
+    "is_elective": false,
+    "domain_tags": [
+      "theory_of_data_science",
+      "data_science"
+    ]
+  },
+  {
+    "code": "DS221",
+    "name": "Inferential Statistics",
+    "credit_hours": 3,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 4,
+    "is_elective": false,
+    "domain_tags": [
+      "inferential_stats",
+      "statistics",
+      "data_science"
+    ]
+  },
+  {
+    "code": "DS341",
+    "name": "Data Mining",
+    "credit_hours": 3,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 5,
+    "is_elective": false,
+    "domain_tags": [
+      "data_mining",
+      "data_science"
+    ]
+  },
+  {
+    "code": "DS331",
+    "name": "Data Warehousing & BI",
+    "credit_hours": 3,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 6,
+    "is_elective": false,
+    "domain_tags": [
+      "data_warehousing",
+      "data_science",
+      "business_analytics"
+    ]
+  },
+  {
+    "code": "DS331L",
+    "name": "Data Warehousing Lab",
+    "credit_hours": 1,
+    "department": "FCSE",
+    "is_lab": true,
+    "sessions_per_week": 1,
+    "semester": 6,
+    "is_elective": false,
+    "domain_tags": [
+      "data_warehousing",
+      "data_science"
+    ]
+  },
+  {
+    "code": "DS351",
+    "name": "Data Visualization",
+    "credit_hours": 3,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 6,
+    "is_elective": false,
+    "domain_tags": [
+      "visualization",
+      "data_science"
+    ]
+  },
+  {
+    "code": "DS351L",
+    "name": "Data Visualization Lab",
+    "credit_hours": 1,
+    "department": "FCSE",
+    "is_lab": true,
+    "sessions_per_week": 1,
+    "semester": 6,
+    "is_elective": false,
+    "domain_tags": [
+      "visualization"
+    ]
+  },
+  {
+    "code": "DS361",
+    "name": "Big Data Analytics",
+    "credit_hours": 3,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 6,
+    "is_elective": false,
+    "domain_tags": [
+      "big_data",
+      "data_science"
+    ]
+  },
+  {
+    "code": "DS361L",
+    "name": "Big Data Lab",
+    "credit_hours": 1,
+    "department": "FCSE",
+    "is_lab": true,
+    "sessions_per_week": 1,
+    "semester": 6,
+    "is_elective": false,
+    "domain_tags": [
+      "big_data"
+    ]
+  },
+  {
+    "code": "DS471",
+    "name": "Data Engineering",
+    "credit_hours": 2,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 2,
+    "semester": 7,
+    "is_elective": false,
+    "domain_tags": [
+      "data_engineering",
+      "data_science",
+      "software_engineering"
+    ]
+  },
+  {
+    "code": "SE201",
+    "name": "Intro to Software Engineering",
+    "credit_hours": 3,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 3,
+    "is_elective": false,
+    "domain_tags": [
+      "software_engineering"
+    ]
+  },
+  {
+    "code": "SE211",
+    "name": "Software Requirement Engineering",
+    "credit_hours": 3,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 4,
+    "is_elective": false,
+    "domain_tags": [
+      "requirements",
+      "software_engineering"
+    ]
+  },
+  {
+    "code": "SE322",
+    "name": "Software Design & Architecture",
+    "credit_hours": 3,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 5,
+    "is_elective": false,
+    "domain_tags": [
+      "architecture",
+      "software_engineering",
+      "design_patterns"
+    ]
+  },
+  {
+    "code": "SE322L",
+    "name": "Software Design Lab",
+    "credit_hours": 1,
+    "department": "FCSE",
+    "is_lab": true,
+    "sessions_per_week": 1,
+    "semester": 5,
+    "is_elective": false,
+    "domain_tags": [
+      "software_engineering"
+    ]
+  },
+  {
+    "code": "SE351",
+    "name": "Web & Mobile App Dev",
+    "credit_hours": 3,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 6,
+    "is_elective": false,
+    "domain_tags": [
+      "web_engineering",
+      "mobile"
+    ]
+  },
+  {
+    "code": "SE351L",
+    "name": "Web & Mobile App Lab",
+    "credit_hours": 1,
+    "department": "FCSE",
+    "is_lab": true,
+    "sessions_per_week": 1,
+    "semester": 6,
+    "is_elective": false,
+    "domain_tags": [
+      "web_engineering"
+    ]
+  },
+  {
+    "code": "SE323",
+    "name": "Software Construction",
+    "credit_hours": 3,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 6,
+    "is_elective": false,
+    "domain_tags": [
+      "software_construction"
+    ]
+  },
+  {
+    "code": "SE323L",
+    "name": "Software Construction Lab",
+    "credit_hours": 1,
+    "department": "FCSE",
+    "is_lab": true,
+    "sessions_per_week": 1,
+    "semester": 6,
+    "is_elective": false,
+    "domain_tags": [
+      "software_construction"
+    ]
+  },
+  {
+    "code": "SE331",
+    "name": "Software Quality Assurance",
+    "credit_hours": 3,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 6,
+    "is_elective": false,
+    "domain_tags": [
+      "quality",
+      "software_engineering"
+    ]
+  },
+  {
+    "code": "SE302L",
+    "name": "DevOps Lab",
+    "credit_hours": 1,
+    "department": "FCSE",
+    "is_lab": true,
+    "sessions_per_week": 1,
+    "semester": 6,
+    "is_elective": false,
+    "domain_tags": [
+      "devops"
+    ]
+  },
+  {
+    "code": "CS492",
+    "name": "Software Project Management",
+    "credit_hours": 2,
+    "department": "FCSE",
+    "is_lab": false,
+    "sessions_per_week": 2,
+    "semester": 7,
+    "is_elective": false,
+    "domain_tags": [
+      "project_management",
+      "software_engineering"
+    ]
+  },
+  {
+    "code": "EE211",
+    "name": "Linear Circuit Analysis",
+    "credit_hours": 3,
+    "department": "FEE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 3,
+    "is_elective": false,
+    "domain_tags": [
+      "circuit_analysis",
+      "electrical_networks"
+    ]
+  },
+  {
+    "code": "EE211L",
+    "name": "Linear Circuit Analysis Lab",
+    "credit_hours": 1,
+    "department": "FEE",
+    "is_lab": true,
+    "sessions_per_week": 1,
+    "semester": 3,
+    "is_elective": false,
+    "domain_tags": [
+      "circuit_analysis"
+    ]
+  },
+  {
+    "code": "EE221",
+    "name": "Digital Logic Design",
+    "credit_hours": 3,
+    "department": "FEE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 3,
+    "is_elective": false,
+    "domain_tags": [
+      "digital_logic"
+    ]
+  },
+  {
+    "code": "EE221L",
+    "name": "Digital Logic Design Lab",
+    "credit_hours": 1,
+    "department": "FEE",
+    "is_lab": true,
+    "sessions_per_week": 1,
+    "semester": 3,
+    "is_elective": false,
+    "domain_tags": [
+      "digital_logic"
+    ]
+  },
+  {
+    "code": "EE222",
+    "name": "Data Structures",
+    "credit_hours": 3,
+    "department": "FEE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 3,
+    "is_elective": false,
+    "domain_tags": [
+      "data_structures"
+    ]
+  },
+  {
+    "code": "MT201",
+    "name": "Calculus II",
+    "credit_hours": 3,
+    "department": "BASIC_SCIENCE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 3,
+    "is_elective": false,
+    "domain_tags": [
+      "calculus",
+      "mathematics"
+    ]
+  },
+  {
+    "code": "EE212",
+    "name": "Electrical Network Analysis",
+    "credit_hours": 3,
+    "department": "FEE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 4,
+    "is_elective": false,
+    "domain_tags": [
+      "electrical_networks"
+    ]
+  },
+  {
+    "code": "EE212L",
+    "name": "Electrical Network Analysis Lab",
+    "credit_hours": 1,
+    "department": "FEE",
+    "is_lab": true,
+    "sessions_per_week": 1,
+    "semester": 4,
+    "is_elective": false,
+    "domain_tags": [
+      "electrical_networks"
+    ]
+  },
+  {
+    "code": "EE223",
+    "name": "Microprocessor Systems",
+    "credit_hours": 3,
+    "department": "FEE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 4,
+    "is_elective": false,
+    "domain_tags": [
+      "microprocessor",
+      "embedded"
+    ]
+  },
+  {
+    "code": "EE223L",
+    "name": "Microprocessor Lab",
+    "credit_hours": 1,
+    "department": "FEE",
+    "is_lab": true,
+    "sessions_per_week": 1,
+    "semester": 4,
+    "is_elective": false,
+    "domain_tags": [
+      "microprocessor"
+    ]
+  },
+  {
+    "code": "EE231",
+    "name": "Electronic Devices & Circuits",
+    "credit_hours": 3,
+    "department": "FEE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 4,
+    "is_elective": false,
+    "domain_tags": [
+      "electronic_devices"
+    ]
+  },
+  {
+    "code": "EE231L",
+    "name": "Electronic Devices Lab",
+    "credit_hours": 1,
+    "department": "FEE",
+    "is_lab": true,
+    "sessions_per_week": 1,
+    "semester": 4,
+    "is_elective": false,
+    "domain_tags": [
+      "electronic_devices"
+    ]
+  },
+  {
+    "code": "MS291",
+    "name": "Engineering Economics",
+    "credit_hours": 2,
+    "department": "SMS",
+    "is_lab": false,
+    "sessions_per_week": 2,
+    "semester": 4,
+    "is_elective": false,
+    "domain_tags": [
+      "engineering_economy"
+    ]
+  },
+  {
+    "code": "EE241",
+    "name": "Numerical Methods",
+    "credit_hours": 3,
+    "department": "FEE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 4,
+    "is_elective": false,
+    "domain_tags": [
+      "numerical_analysis"
+    ]
+  },
+  {
+    "code": "EE311",
+    "name": "Electric Machines",
+    "credit_hours": 3,
+    "department": "FEE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 5,
+    "is_elective": false,
+    "domain_tags": [
+      "electric_machines"
+    ]
+  },
+  {
+    "code": "EE311L",
+    "name": "Electric Machines Lab",
+    "credit_hours": 1,
+    "department": "FEE",
+    "is_lab": true,
+    "sessions_per_week": 1,
+    "semester": 5,
+    "is_elective": false,
+    "domain_tags": [
+      "electric_machines"
+    ]
+  },
+  {
+    "code": "EE341",
+    "name": "Signals & Systems",
+    "credit_hours": 3,
+    "department": "FEE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 5,
+    "is_elective": false,
+    "domain_tags": [
+      "signals",
+      "dsp"
+    ]
+  },
+  {
+    "code": "EE341L",
+    "name": "Signals & Systems Lab",
+    "credit_hours": 1,
+    "department": "FEE",
+    "is_lab": true,
+    "sessions_per_week": 1,
+    "semester": 5,
+    "is_elective": false,
+    "domain_tags": [
+      "signals"
+    ]
+  },
+  {
+    "code": "EE351",
+    "name": "Linear Control Systems",
+    "credit_hours": 3,
+    "department": "FEE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 5,
+    "is_elective": false,
+    "domain_tags": [
+      "control_systems"
+    ]
+  },
+  {
+    "code": "EE351L",
+    "name": "Control Systems Lab",
+    "credit_hours": 1,
+    "department": "FEE",
+    "is_lab": true,
+    "sessions_per_week": 1,
+    "semester": 5,
+    "is_elective": false,
+    "domain_tags": [
+      "control_systems"
+    ]
+  },
+  {
+    "code": "EE332",
+    "name": "Power Electronics",
+    "credit_hours": 3,
+    "department": "FEE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 6,
+    "is_elective": false,
+    "domain_tags": [
+      "power_electronics"
+    ]
+  },
+  {
+    "code": "EE361",
+    "name": "Communication Systems",
+    "credit_hours": 3,
+    "department": "FEE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 6,
+    "is_elective": false,
+    "domain_tags": [
+      "communication_systems"
+    ]
+  },
+  {
+    "code": "EE452",
+    "name": "Robotics in Automation",
+    "credit_hours": 3,
+    "department": "FEE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 7,
+    "is_elective": false,
+    "domain_tags": [
+      "robotics",
+      "applied_ee"
+    ]
+  },
+  {
+    "code": "EE4xx",
+    "name": "Specialization Elective",
+    "credit_hours": 3,
+    "department": "FEE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 7,
+    "is_elective": true,
+    "domain_tags": [
+      "applied_ee"
+    ]
+  },
+  {
+    "code": "ME211",
+    "name": "Statics",
+    "credit_hours": 2,
+    "department": "FME",
+    "is_lab": false,
+    "sessions_per_week": 2,
+    "semester": 3,
+    "is_elective": false,
+    "domain_tags": [
+      "statics",
+      "mechanics"
+    ]
+  },
+  {
+    "code": "ME204",
+    "name": "Engineering Graphics",
+    "credit_hours": 2,
+    "department": "FME",
+    "is_lab": false,
+    "sessions_per_week": 2,
+    "semester": 3,
+    "is_elective": false,
+    "domain_tags": [
+      "engineering_graphics"
+    ]
+  },
+  {
+    "code": "ME202",
+    "name": "Measurement & Instrumentation",
+    "credit_hours": 2,
+    "department": "FME",
+    "is_lab": false,
+    "sessions_per_week": 2,
+    "semester": 3,
+    "is_elective": false,
+    "domain_tags": [
+      "instrumentation"
+    ]
+  },
+  {
+    "code": "ME251",
+    "name": "Manufacturing Processes",
+    "credit_hours": 2,
+    "department": "FME",
+    "is_lab": false,
+    "sessions_per_week": 2,
+    "semester": 3,
+    "is_elective": false,
+    "domain_tags": [
+      "manufacturing"
+    ]
+  },
+  {
+    "code": "ME231",
+    "name": "Thermodynamics",
+    "credit_hours": 3,
+    "department": "FME",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 3,
+    "is_elective": false,
+    "domain_tags": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "code": "ME245L",
+    "name": "Lab",
+    "credit_hours": 1,
+    "department": "FME",
+    "is_lab": true,
+    "sessions_per_week": 1,
+    "semester": 3,
+    "is_elective": false,
+    "domain_tags": [
+      "workshop"
+    ]
+  },
+  {
+    "code": "ME212",
+    "name": "Dynamics",
+    "credit_hours": 3,
+    "department": "FME",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 4,
+    "is_elective": false,
+    "domain_tags": [
+      "dynamics",
+      "mechanics"
+    ]
+  },
+  {
+    "code": "ME213",
+    "name": "Mechanics of Solids I",
+    "credit_hours": 3,
+    "department": "FME",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 4,
+    "is_elective": false,
+    "domain_tags": [
+      "mechanics_of_solids"
+    ]
+  },
+  {
+    "code": "ME203",
+    "name": "Circuits & Electronic Devices",
+    "credit_hours": 3,
+    "department": "FME",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 4,
+    "is_elective": false,
+    "domain_tags": [
+      "circuit_analysis",
+      "electronic_devices"
+    ]
+  },
+  {
+    "code": "ME243L",
+    "name": "Lab",
+    "credit_hours": 1,
+    "department": "FME",
+    "is_lab": true,
+    "sessions_per_week": 1,
+    "semester": 4,
+    "is_elective": false,
+    "domain_tags": [
+      "manufacturing"
+    ]
+  },
+  {
+    "code": "ME244L",
+    "name": "Lab",
+    "credit_hours": 1,
+    "department": "FME",
+    "is_lab": true,
+    "sessions_per_week": 1,
+    "semester": 4,
+    "is_elective": false,
+    "domain_tags": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "code": "ME321",
+    "name": "Fluid Mechanics I",
+    "credit_hours": 3,
+    "department": "FME",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 5,
+    "is_elective": false,
+    "domain_tags": [
+      "fluid_mechanics"
+    ]
+  },
+  {
+    "code": "ME363",
+    "name": "Machine Elements I",
+    "credit_hours": 2,
+    "department": "FME",
+    "is_lab": false,
+    "sessions_per_week": 2,
+    "semester": 5,
+    "is_elective": false,
+    "domain_tags": [
+      "machine_elements"
+    ]
+  },
+  {
+    "code": "ME313",
+    "name": "Theory of Machines",
+    "credit_hours": 3,
+    "department": "FME",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 5,
+    "is_elective": false,
+    "domain_tags": [
+      "theory_of_machines"
+    ]
+  },
+  {
+    "code": "ES341",
+    "name": "Numerical Analysis",
+    "credit_hours": 3,
+    "department": "BASIC_SCIENCE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 5,
+    "is_elective": false,
+    "domain_tags": [
+      "numerical_analysis"
+    ]
+  },
+  {
+    "code": "ME314",
+    "name": "Mechanics of Solids II",
+    "credit_hours": 2,
+    "department": "FME",
+    "is_lab": false,
+    "sessions_per_week": 2,
+    "semester": 5,
+    "is_elective": false,
+    "domain_tags": [
+      "mechanics_of_solids"
+    ]
+  },
+  {
+    "code": "ME346L",
+    "name": "Lab",
+    "credit_hours": 1,
+    "department": "FME",
+    "is_lab": true,
+    "sessions_per_week": 1,
+    "semester": 5,
+    "is_elective": false,
+    "domain_tags": [
+      "fluid_mechanics"
+    ]
+  },
+  {
+    "code": "ME322",
+    "name": "Fluid Mechanics II",
+    "credit_hours": 3,
+    "department": "FME",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 6,
+    "is_elective": false,
+    "domain_tags": [
+      "fluid_mechanics"
+    ]
+  },
+  {
+    "code": "ME333",
+    "name": "Heat Transfer",
+    "credit_hours": 3,
+    "department": "FME",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 6,
+    "is_elective": false,
+    "domain_tags": [
+      "heat_transfer"
+    ]
+  },
+  {
+    "code": "ME315",
+    "name": "Mechanical Vibration",
+    "credit_hours": 3,
+    "department": "FME",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 6,
+    "is_elective": false,
+    "domain_tags": [
+      "vibration"
+    ]
+  },
+  {
+    "code": "ME364",
+    "name": "Machine Elements II",
+    "credit_hours": 2,
+    "department": "FME",
+    "is_lab": false,
+    "sessions_per_week": 2,
+    "semester": 6,
+    "is_elective": false,
+    "domain_tags": [
+      "machine_elements"
+    ]
+  },
+  {
+    "code": "ME316",
+    "name": "Computer Aided Engineering",
+    "credit_hours": 2,
+    "department": "FME",
+    "is_lab": false,
+    "sessions_per_week": 2,
+    "semester": 6,
+    "is_elective": false,
+    "domain_tags": [
+      "engineering_graphics"
+    ]
+  },
+  {
+    "code": "ME464",
+    "name": "System Dynamics & Control",
+    "credit_hours": 3,
+    "department": "FME",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 7,
+    "is_elective": false,
+    "domain_tags": [
+      "control_systems",
+      "dynamics"
+    ]
+  },
+  {
+    "code": "ME403",
+    "name": "Electrical Machines & Drives",
+    "credit_hours": 3,
+    "department": "FME",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 7,
+    "is_elective": false,
+    "domain_tags": [
+      "electric_machines",
+      "drives"
+    ]
+  },
+  {
+    "code": "ME467",
+    "name": "Finite Element Analysis",
+    "credit_hours": 3,
+    "department": "FME",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 8,
+    "is_elective": false,
+    "domain_tags": [
+      "numerical_analysis",
+      "mechanics"
+    ]
+  },
+  {
+    "code": "MS49x",
+    "name": "Management Elective",
+    "credit_hours": 3,
+    "department": "SMS",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 7,
+    "is_elective": true,
+    "domain_tags": [
+      "management"
+    ]
+  },
+  {
+    "code": "ME4xx",
+    "name": "Technical Elective",
+    "credit_hours": 3,
+    "department": "FME",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 7,
+    "is_elective": true,
+    "domain_tags": []
+  },
+  {
+    "code": "MM212",
+    "name": "Materials Evaluation",
+    "credit_hours": 3,
+    "department": "FMCE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 3,
+    "is_elective": false,
+    "domain_tags": [
+      "materials_evaluation",
+      "materials_science"
+    ]
+  },
+  {
+    "code": "MM231",
+    "name": "Thermodynamics of Materials",
+    "credit_hours": 3,
+    "department": "FMCE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 3,
+    "is_elective": false,
+    "domain_tags": [
+      "thermodynamics_mm",
+      "materials_science"
+    ]
+  },
+  {
+    "code": "MM214",
+    "name": "Mineral Processing",
+    "credit_hours": 2,
+    "department": "FMCE",
+    "is_lab": false,
+    "sessions_per_week": 2,
+    "semester": 3,
+    "is_elective": false,
+    "domain_tags": [
+      "mineral_processing"
+    ]
+  },
+  {
+    "code": "EE213",
+    "name": "Applied EE",
+    "credit_hours": 3,
+    "department": "FEE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 3,
+    "is_elective": false,
+    "domain_tags": [
+      "applied_ee"
+    ]
+  },
+  {
+    "code": "MM242L",
+    "name": "Materials Lab II",
+    "credit_hours": 1,
+    "department": "FMCE",
+    "is_lab": true,
+    "sessions_per_week": 1,
+    "semester": 3,
+    "is_elective": false,
+    "domain_tags": [
+      "materials_lab"
+    ]
+  },
+  {
+    "code": "MM232",
+    "name": "Phase Equilibria",
+    "credit_hours": 3,
+    "department": "FMCE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 4,
+    "is_elective": false,
+    "domain_tags": [
+      "phase_equilibria",
+      "materials_science"
+    ]
+  },
+  {
+    "code": "MM222",
+    "name": "Strength of Materials",
+    "credit_hours": 3,
+    "department": "FMCE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 4,
+    "is_elective": false,
+    "domain_tags": [
+      "strength_materials",
+      "mechanics_of_solids"
+    ]
+  },
+  {
+    "code": "MM233",
+    "name": "Alloy Production & Casting",
+    "credit_hours": 3,
+    "department": "FMCE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 4,
+    "is_elective": false,
+    "domain_tags": [
+      "alloy",
+      "manufacturing_mm"
+    ]
+  },
+  {
+    "code": "MM201",
+    "name": "Materials Chemistry",
+    "credit_hours": 3,
+    "department": "FMCE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 4,
+    "is_elective": false,
+    "domain_tags": [
+      "materials_chemistry"
+    ]
+  },
+  {
+    "code": "MM244L",
+    "name": "Computational Tools Lab",
+    "credit_hours": 1,
+    "department": "FMCE",
+    "is_lab": true,
+    "sessions_per_week": 1,
+    "semester": 4,
+    "is_elective": false,
+    "domain_tags": [
+      "computing"
+    ]
+  },
+  {
+    "code": "MM323",
+    "name": "XRD & EM",
+    "credit_hours": 3,
+    "department": "FMCE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 5,
+    "is_elective": false,
+    "domain_tags": [
+      "xrd",
+      "materials_lab"
+    ]
+  },
+  {
+    "code": "MM324",
+    "name": "Deformation & Fracture",
+    "credit_hours": 3,
+    "department": "FMCE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 5,
+    "is_elective": false,
+    "domain_tags": [
+      "deformation_fracture"
+    ]
+  },
+  {
+    "code": "MM334",
+    "name": "Heat Treatment",
+    "credit_hours": 3,
+    "department": "FMCE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 5,
+    "is_elective": false,
+    "domain_tags": [
+      "heat_treatment"
+    ]
+  },
+  {
+    "code": "MM351",
+    "name": "Joining of Materials",
+    "credit_hours": 3,
+    "department": "FMCE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 5,
+    "is_elective": false,
+    "domain_tags": [
+      "joining_materials"
+    ]
+  },
+  {
+    "code": "MM344L",
+    "name": "Lab",
+    "credit_hours": 2,
+    "department": "FMCE",
+    "is_lab": true,
+    "sessions_per_week": 2,
+    "semester": 5,
+    "is_elective": false,
+    "domain_tags": [
+      "materials_lab"
+    ]
+  },
+  {
+    "code": "MM352",
+    "name": "Manufacturing Processes-I",
+    "credit_hours": 3,
+    "department": "FMCE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 6,
+    "is_elective": false,
+    "domain_tags": [
+      "manufacturing_mm"
+    ]
+  },
+  {
+    "code": "MM365",
+    "name": "Polymers & Composites",
+    "credit_hours": 3,
+    "department": "FMCE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 6,
+    "is_elective": false,
+    "domain_tags": [
+      "polymers",
+      "ceramics"
+    ]
+  },
+  {
+    "code": "MM362",
+    "name": "Ceramics & Glasses",
+    "credit_hours": 3,
+    "department": "FMCE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 6,
+    "is_elective": false,
+    "domain_tags": [
+      "ceramics"
+    ]
+  },
+  {
+    "code": "MM435",
+    "name": "Corrosion",
+    "credit_hours": 3,
+    "department": "FMCE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 7,
+    "is_elective": false,
+    "domain_tags": [
+      "corrosion"
+    ]
+  },
+  {
+    "code": "MM453",
+    "name": "CAD/CAM",
+    "credit_hours": 3,
+    "department": "FMCE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 7,
+    "is_elective": false,
+    "domain_tags": [
+      "cad_cam"
+    ]
+  },
+  {
+    "code": "MM451",
+    "name": "Manufacturing Process-II",
+    "credit_hours": 3,
+    "department": "FMCE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 8,
+    "is_elective": false,
+    "domain_tags": [
+      "manufacturing_mm"
+    ]
+  },
+  {
+    "code": "CH201",
+    "name": "Physical & Analytical Chem",
+    "credit_hours": 2,
+    "department": "FMCE",
+    "is_lab": false,
+    "sessions_per_week": 2,
+    "semester": 3,
+    "is_elective": false,
+    "domain_tags": [
+      "analytical_chemistry"
+    ]
+  },
+  {
+    "code": "CH211",
+    "name": "Chemical Process Industries",
+    "credit_hours": 2,
+    "department": "FMCE",
+    "is_lab": false,
+    "sessions_per_week": 2,
+    "semester": 3,
+    "is_elective": false,
+    "domain_tags": [
+      "chemical_engineering"
+    ]
+  },
+  {
+    "code": "CH231",
+    "name": "Chem Engg Principles",
+    "credit_hours": 3,
+    "department": "FMCE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 3,
+    "is_elective": false,
+    "domain_tags": [
+      "chemical_engineering"
+    ]
+  },
+  {
+    "code": "CH251L",
+    "name": "Lab",
+    "credit_hours": 1,
+    "department": "FMCE",
+    "is_lab": true,
+    "sessions_per_week": 1,
+    "semester": 3,
+    "is_elective": false,
+    "domain_tags": [
+      "chemical_engineering"
+    ]
+  },
+  {
+    "code": "CH202",
+    "name": "Inorganic & Organic Chem",
+    "credit_hours": 3,
+    "department": "FMCE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 4,
+    "is_elective": false,
+    "domain_tags": [
+      "chemistry"
+    ]
+  },
+  {
+    "code": "CH212",
+    "name": "Energy Engg",
+    "credit_hours": 3,
+    "department": "FMCE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 4,
+    "is_elective": false,
+    "domain_tags": [
+      "energy_engineering"
+    ]
+  },
+  {
+    "code": "CH214",
+    "name": "Thermodynamics I",
+    "credit_hours": 3,
+    "department": "FMCE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 4,
+    "is_elective": false,
+    "domain_tags": [
+      "thermodynamics_ch"
+    ]
+  },
+  {
+    "code": "CH241",
+    "name": "Fluid Mechanics I",
+    "credit_hours": 3,
+    "department": "FMCE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 4,
+    "is_elective": false,
+    "domain_tags": [
+      "fluid_mechanics_ch"
+    ]
+  },
+  {
+    "code": "CH252L",
+    "name": "Energy/Thermo Lab",
+    "credit_hours": 1,
+    "department": "FMCE",
+    "is_lab": true,
+    "sessions_per_week": 1,
+    "semester": 4,
+    "is_elective": false,
+    "domain_tags": [
+      "thermodynamics_ch"
+    ]
+  },
+  {
+    "code": "CH253L",
+    "name": "Fluid Lab",
+    "credit_hours": 1,
+    "department": "FMCE",
+    "is_lab": true,
+    "sessions_per_week": 1,
+    "semester": 4,
+    "is_elective": false,
+    "domain_tags": [
+      "fluid_mechanics_ch"
+    ]
+  },
+  {
+    "code": "CH311",
+    "name": "Heat Transfer",
+    "credit_hours": 3,
+    "department": "FMCE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 5,
+    "is_elective": false,
+    "domain_tags": [
+      "heat_transfer_ch"
+    ]
+  },
+  {
+    "code": "CH313",
+    "name": "Mass Transfer",
+    "credit_hours": 3,
+    "department": "FMCE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 5,
+    "is_elective": false,
+    "domain_tags": [
+      "mass_transfer"
+    ]
+  },
+  {
+    "code": "CH321",
+    "name": "Thermodynamics II",
+    "credit_hours": 3,
+    "department": "FMCE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 5,
+    "is_elective": false,
+    "domain_tags": [
+      "thermodynamics_ch"
+    ]
+  },
+  {
+    "code": "CH341",
+    "name": "Particle Technology",
+    "credit_hours": 3,
+    "department": "FMCE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 5,
+    "is_elective": false,
+    "domain_tags": [
+      "particle_technology"
+    ]
+  },
+  {
+    "code": "CH351L",
+    "name": "Lab",
+    "credit_hours": 1,
+    "department": "FMCE",
+    "is_lab": true,
+    "sessions_per_week": 1,
+    "semester": 5,
+    "is_elective": false,
+    "domain_tags": [
+      "chemical_engineering"
+    ]
+  },
+  {
+    "code": "CH322",
+    "name": "Reaction Kinetics & Reactor Design",
+    "credit_hours": 3,
+    "department": "FMCE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 6,
+    "is_elective": false,
+    "domain_tags": [
+      "reaction_kinetics"
+    ]
+  },
+  {
+    "code": "CH331",
+    "name": "Process Modeling",
+    "credit_hours": 2,
+    "department": "FMCE",
+    "is_lab": false,
+    "sessions_per_week": 2,
+    "semester": 6,
+    "is_elective": false,
+    "domain_tags": [
+      "process_modelling"
+    ]
+  },
+  {
+    "code": "CH342",
+    "name": "Fluid Mechanics II",
+    "credit_hours": 2,
+    "department": "FMCE",
+    "is_lab": false,
+    "sessions_per_week": 2,
+    "semester": 6,
+    "is_elective": false,
+    "domain_tags": [
+      "fluid_mechanics_ch"
+    ]
+  },
+  {
+    "code": "CH361",
+    "name": "Environmental Engg",
+    "credit_hours": 2,
+    "department": "FMCE",
+    "is_lab": false,
+    "sessions_per_week": 2,
+    "semester": 6,
+    "is_elective": false,
+    "domain_tags": [
+      "environmental_engineering"
+    ]
+  },
+  {
+    "code": "CH411",
+    "name": "Simultaneous Heat & Mass Transfer",
+    "credit_hours": 3,
+    "department": "FMCE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 7,
+    "is_elective": false,
+    "domain_tags": [
+      "heat_transfer_ch",
+      "mass_transfer"
+    ]
+  },
+  {
+    "code": "CH415",
+    "name": "Instrumentation & Control",
+    "credit_hours": 3,
+    "department": "FMCE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 7,
+    "is_elective": false,
+    "domain_tags": [
+      "instrumentation",
+      "control_systems"
+    ]
+  },
+  {
+    "code": "CH412",
+    "name": "Transport Phenomena",
+    "credit_hours": 3,
+    "department": "FMCE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 8,
+    "is_elective": false,
+    "domain_tags": [
+      "transport"
+    ]
+  },
+  {
+    "code": "CH441",
+    "name": "Plant Design",
+    "credit_hours": 3,
+    "department": "FMCE",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 8,
+    "is_elective": false,
+    "domain_tags": [
+      "plant_design"
+    ]
+  },
+  {
+    "code": "CV201",
+    "name": "Engineering Surveying",
+    "credit_hours": 2,
+    "department": "CIVIL",
+    "is_lab": false,
+    "sessions_per_week": 2,
+    "semester": 3,
+    "is_elective": false,
+    "domain_tags": [
+      "surveying"
+    ]
+  },
+  {
+    "code": "CV201L",
+    "name": "Surveying Lab",
+    "credit_hours": 1,
+    "department": "CIVIL",
+    "is_lab": true,
+    "sessions_per_week": 1,
+    "semester": 3,
+    "is_elective": false,
+    "domain_tags": [
+      "surveying"
+    ]
+  },
+  {
+    "code": "CV210L",
+    "name": "Drawing Lab",
+    "credit_hours": 1,
+    "department": "CIVIL",
+    "is_lab": true,
+    "sessions_per_week": 1,
+    "semester": 3,
+    "is_elective": false,
+    "domain_tags": [
+      "engineering_graphics"
+    ]
+  },
+  {
+    "code": "CV211",
+    "name": "Mechanics of Solids I",
+    "credit_hours": 3,
+    "department": "CIVIL",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 3,
+    "is_elective": false,
+    "domain_tags": [
+      "mechanics_of_solids"
+    ]
+  },
+  {
+    "code": "CV215",
+    "name": "Concrete Technology",
+    "credit_hours": 3,
+    "department": "CIVIL",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 3,
+    "is_elective": false,
+    "domain_tags": [
+      "concrete_technology"
+    ]
+  },
+  {
+    "code": "CV215L",
+    "name": "Concrete Lab",
+    "credit_hours": 1,
+    "department": "CIVIL",
+    "is_lab": true,
+    "sessions_per_week": 1,
+    "semester": 3,
+    "is_elective": false,
+    "domain_tags": [
+      "concrete_technology"
+    ]
+  },
+  {
+    "code": "CV221",
+    "name": "Fluid Mechanics",
+    "credit_hours": 3,
+    "department": "CIVIL",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 3,
+    "is_elective": false,
+    "domain_tags": [
+      "fluid_mechanics_cv"
+    ]
+  },
+  {
+    "code": "CV221L",
+    "name": "Fluid Lab",
+    "credit_hours": 1,
+    "department": "CIVIL",
+    "is_lab": true,
+    "sessions_per_week": 1,
+    "semester": 3,
+    "is_elective": false,
+    "domain_tags": [
+      "fluid_mechanics_cv"
+    ]
+  },
+  {
+    "code": "CV230",
+    "name": "Geology",
+    "credit_hours": 2,
+    "department": "CIVIL",
+    "is_lab": false,
+    "sessions_per_week": 2,
+    "semester": 4,
+    "is_elective": false,
+    "domain_tags": [
+      "geology"
+    ]
+  },
+  {
+    "code": "CV213",
+    "name": "Basic Structure Analysis",
+    "credit_hours": 3,
+    "department": "CIVIL",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 4,
+    "is_elective": false,
+    "domain_tags": [
+      "structural_analysis"
+    ]
+  },
+  {
+    "code": "CV231",
+    "name": "Soil Mechanics",
+    "credit_hours": 3,
+    "department": "CIVIL",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 4,
+    "is_elective": false,
+    "domain_tags": [
+      "soil_mechanics"
+    ]
+  },
+  {
+    "code": "CV231L",
+    "name": "Soil Lab",
+    "credit_hours": 1,
+    "department": "CIVIL",
+    "is_lab": true,
+    "sessions_per_week": 1,
+    "semester": 4,
+    "is_elective": false,
+    "domain_tags": [
+      "soil_mechanics"
+    ]
+  },
+  {
+    "code": "CV241",
+    "name": "Transportation Engg",
+    "credit_hours": 3,
+    "department": "CIVIL",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 4,
+    "is_elective": false,
+    "domain_tags": [
+      "transportation"
+    ]
+  },
+  {
+    "code": "CV313",
+    "name": "Indeterminate Structural Analysis",
+    "credit_hours": 3,
+    "department": "CIVIL",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 5,
+    "is_elective": false,
+    "domain_tags": [
+      "structural_analysis"
+    ]
+  },
+  {
+    "code": "CV322",
+    "name": "Fluid Mechanics II",
+    "credit_hours": 3,
+    "department": "CIVIL",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 5,
+    "is_elective": false,
+    "domain_tags": [
+      "fluid_mechanics_cv"
+    ]
+  },
+  {
+    "code": "CV332",
+    "name": "Geotechnical & Foundation Engg",
+    "credit_hours": 3,
+    "department": "CIVIL",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 5,
+    "is_elective": false,
+    "domain_tags": [
+      "geotechnical",
+      "soil_mechanics"
+    ]
+  },
+  {
+    "code": "CV323",
+    "name": "Hydrology",
+    "credit_hours": 2,
+    "department": "CIVIL",
+    "is_lab": false,
+    "sessions_per_week": 2,
+    "semester": 5,
+    "is_elective": false,
+    "domain_tags": [
+      "hydrology"
+    ]
+  },
+  {
+    "code": "CV305",
+    "name": "Geo Informatics",
+    "credit_hours": 1,
+    "department": "CIVIL",
+    "is_lab": false,
+    "sessions_per_week": 1,
+    "semester": 6,
+    "is_elective": false,
+    "domain_tags": [
+      "geo_informatics"
+    ]
+  },
+  {
+    "code": "CV314",
+    "name": "Reinforced Concrete Design I",
+    "credit_hours": 3,
+    "department": "CIVIL",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 6,
+    "is_elective": false,
+    "domain_tags": [
+      "rc_design",
+      "structural_analysis"
+    ]
+  },
+  {
+    "code": "CV315",
+    "name": "Design of Steel Structures",
+    "credit_hours": 3,
+    "department": "CIVIL",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 6,
+    "is_elective": false,
+    "domain_tags": [
+      "steel_design"
+    ]
+  },
+  {
+    "code": "CV351",
+    "name": "Construction Engg",
+    "credit_hours": 2,
+    "department": "CIVIL",
+    "is_lab": false,
+    "sessions_per_week": 2,
+    "semester": 6,
+    "is_elective": false,
+    "domain_tags": [
+      "construction"
+    ]
+  },
+  {
+    "code": "CV361",
+    "name": "Environmental Engg I",
+    "credit_hours": 3,
+    "department": "CIVIL",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 6,
+    "is_elective": false,
+    "domain_tags": [
+      "environmental_engineering_cv"
+    ]
+  },
+  {
+    "code": "CV414",
+    "name": "Reinforced Concrete Design II",
+    "credit_hours": 3,
+    "department": "CIVIL",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 7,
+    "is_elective": false,
+    "domain_tags": [
+      "rc_design"
+    ]
+  },
+  {
+    "code": "CV442",
+    "name": "Highway Engg",
+    "credit_hours": 3,
+    "department": "CIVIL",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 7,
+    "is_elective": false,
+    "domain_tags": [
+      "highway",
+      "transportation"
+    ]
+  },
+  {
+    "code": "CV408",
+    "name": "Machine Learning in Civil",
+    "credit_hours": 3,
+    "department": "CIVIL",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 8,
+    "is_elective": false,
+    "domain_tags": [
+      "machine_learning"
+    ]
+  },
+  {
+    "code": "CV425",
+    "name": "Hydraulics & Irrigation",
+    "credit_hours": 3,
+    "department": "CIVIL",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 8,
+    "is_elective": false,
+    "domain_tags": [
+      "hydrology",
+      "fluid_mechanics_cv"
+    ]
+  },
+  {
+    "code": "CV452",
+    "name": "Construction Management",
+    "credit_hours": 3,
+    "department": "CIVIL",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 8,
+    "is_elective": false,
+    "domain_tags": [
+      "construction_management"
+    ]
+  },
+  {
+    "code": "CV407",
+    "name": "Civil Engg Economics",
+    "credit_hours": 2,
+    "department": "CIVIL",
+    "is_lab": false,
+    "sessions_per_week": 2,
+    "semester": 7,
+    "is_elective": false,
+    "domain_tags": [
+      "engineering_economy"
+    ]
+  },
+  {
+    "code": "CV403L",
+    "name": "Cost Estimation Lab",
+    "credit_hours": 1,
+    "department": "CIVIL",
+    "is_lab": true,
+    "sessions_per_week": 1,
+    "semester": 7,
+    "is_elective": false,
+    "domain_tags": [
+      "cost_estimation"
+    ]
+  },
+  {
+    "code": "MS101",
+    "name": "Business Math",
+    "credit_hours": 3,
+    "department": "SMS",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 1,
+    "is_elective": false,
+    "domain_tags": [
+      "business_mathematics"
+    ]
+  },
+  {
+    "code": "MS121",
+    "name": "Fundamentals of Management",
+    "credit_hours": 3,
+    "department": "SMS",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 1,
+    "is_elective": false,
+    "domain_tags": [
+      "management"
+    ]
+  },
+  {
+    "code": "MS131",
+    "name": "Principles of Marketing",
+    "credit_hours": 3,
+    "department": "SMS",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 1,
+    "is_elective": false,
+    "domain_tags": [
+      "marketing"
+    ]
+  },
+  {
+    "code": "MS102",
+    "name": "Business Statistics",
+    "credit_hours": 3,
+    "department": "SMS",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 2,
+    "is_elective": false,
+    "domain_tags": [
+      "statistics",
+      "business_analytics"
+    ]
+  },
+  {
+    "code": "MS122",
+    "name": "HRM",
+    "credit_hours": 3,
+    "department": "SMS",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 2,
+    "is_elective": false,
+    "domain_tags": [
+      "hrm"
+    ]
+  },
+  {
+    "code": "MS141",
+    "name": "Microeconomics",
+    "credit_hours": 3,
+    "department": "SMS",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 2,
+    "is_elective": false,
+    "domain_tags": [
+      "microeconomics",
+      "economics"
+    ]
+  },
+  {
+    "code": "MS151",
+    "name": "Financial Accounting",
+    "credit_hours": 3,
+    "department": "SMS",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 2,
+    "is_elective": false,
+    "domain_tags": [
+      "accounting"
+    ]
+  },
+  {
+    "code": "HM203",
+    "name": "Business Communication",
+    "credit_hours": 3,
+    "department": "SMS",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 3,
+    "is_elective": false,
+    "domain_tags": [
+      "business_comm",
+      "communication_skills"
+    ]
+  },
+  {
+    "code": "MS222",
+    "name": "Organizational Behavior",
+    "credit_hours": 3,
+    "department": "SMS",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 3,
+    "is_elective": false,
+    "domain_tags": [
+      "organizational_behavior"
+    ]
+  },
+  {
+    "code": "MS232",
+    "name": "Marketing Management",
+    "credit_hours": 3,
+    "department": "SMS",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 3,
+    "is_elective": false,
+    "domain_tags": [
+      "marketing"
+    ]
+  },
+  {
+    "code": "MS242",
+    "name": "Macroeconomics",
+    "credit_hours": 3,
+    "department": "SMS",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 3,
+    "is_elective": false,
+    "domain_tags": [
+      "macroeconomics",
+      "economics"
+    ]
+  },
+  {
+    "code": "MS252",
+    "name": "Management Accounting",
+    "credit_hours": 3,
+    "department": "SMS",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 3,
+    "is_elective": false,
+    "domain_tags": [
+      "accounting"
+    ]
+  },
+  {
+    "code": "MS203",
+    "name": "Business Research Methods",
+    "credit_hours": 3,
+    "department": "SMS",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 4,
+    "is_elective": false,
+    "domain_tags": [
+      "research_methods"
+    ]
+  },
+  {
+    "code": "MS211",
+    "name": "Environmental Sciences",
+    "credit_hours": 3,
+    "department": "SMS",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 4,
+    "is_elective": false,
+    "domain_tags": [
+      "environmental_engineering"
+    ]
+  },
+  {
+    "code": "MS233",
+    "name": "Consumer Behavior",
+    "credit_hours": 3,
+    "department": "SMS",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 4,
+    "is_elective": false,
+    "domain_tags": [
+      "consumer_behavior",
+      "marketing"
+    ]
+  },
+  {
+    "code": "MS234",
+    "name": "Entrepreneurship",
+    "credit_hours": 3,
+    "department": "SMS",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 4,
+    "is_elective": false,
+    "domain_tags": [
+      "entrepreneurship"
+    ]
+  },
+  {
+    "code": "MS253",
+    "name": "Business Finance",
+    "credit_hours": 3,
+    "department": "SMS",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 4,
+    "is_elective": false,
+    "domain_tags": [
+      "business_finance"
+    ]
+  },
+  {
+    "code": "HM222",
+    "name": "Art of Learning",
+    "credit_hours": 2,
+    "department": "SMS",
+    "is_lab": false,
+    "sessions_per_week": 2,
+    "semester": 3,
+    "is_elective": false,
+    "domain_tags": [
+      "art_of_learning"
+    ]
+  },
+  {
+    "code": "MS471",
+    "name": "Senior Year Project I",
+    "credit_hours": 3,
+    "department": "SMS",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 7,
+    "is_elective": false,
+    "domain_tags": [
+      "project_management"
+    ]
+  },
+  {
+    "code": "MS472",
+    "name": "Senior Year Project II",
+    "credit_hours": 3,
+    "department": "SMS",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 8,
+    "is_elective": false,
+    "domain_tags": [
+      "project_management"
+    ]
+  },
+  {
+    "code": "HM111",
+    "name": "Islamic Studies/Ethics",
+    "credit_hours": 2,
+    "department": "SMS",
+    "is_lab": false,
+    "sessions_per_week": 2,
+    "semester": 1,
+    "is_elective": false,
+    "domain_tags": [
+      "islamic_studies",
+      "ethics"
+    ]
+  },
+  {
+    "code": "HM112",
+    "name": "Pakistan Studies",
+    "credit_hours": 2,
+    "department": "SMS",
+    "is_lab": false,
+    "sessions_per_week": 2,
+    "semester": 2,
+    "is_elective": false,
+    "domain_tags": [
+      "pakistan_studies"
+    ]
+  },
+  {
+    "code": "HM213",
+    "name": "History",
+    "credit_hours": 3,
+    "department": "SMS",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 3,
+    "is_elective": false,
+    "domain_tags": [
+      "history"
+    ]
+  },
+  {
+    "code": "HM221",
+    "name": "IR & Current Affairs",
+    "credit_hours": 3,
+    "department": "SMS",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 3,
+    "is_elective": false,
+    "domain_tags": [
+      "ir_affairs"
+    ]
+  },
+  {
+    "code": "HM223",
+    "name": "Anthropology",
+    "credit_hours": 3,
+    "department": "SMS",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 4,
+    "is_elective": false,
+    "domain_tags": [
+      "anthropology"
+    ]
+  },
+  {
+    "code": "HM404",
+    "name": "Advance Oral Communication",
+    "credit_hours": 3,
+    "department": "SMS",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 7,
+    "is_elective": false,
+    "domain_tags": [
+      "oral_communication"
+    ]
+  },
+  {
+    "code": "MS4xx",
+    "name": "Management Elective",
+    "credit_hours": 3,
+    "department": "SMS",
+    "is_lab": false,
+    "sessions_per_week": 3,
+    "semester": 7,
+    "is_elective": true,
+    "domain_tags": [
+      "management"
+    ]
+  }
+]

@@ -1,0 +1,1940 @@
+[
+  {
+    "id": "FCSE_Common-1-A",
+    "program": "FCSE_Common",
+    "semester": 1,
+    "department": "FCSE",
+    "student_count": 60,
+    "course_codes": [
+      "CS101",
+      "CS101L",
+      "CL102",
+      "CL102L",
+      "MT101",
+      "HM101",
+      "HM111"
+    ]
+  },
+  {
+    "id": "FCSE_Common-1-B",
+    "program": "FCSE_Common",
+    "semester": 1,
+    "department": "FCSE",
+    "student_count": 60,
+    "course_codes": [
+      "CS101",
+      "CS101L",
+      "CL102",
+      "CL102L",
+      "MT101",
+      "HM101",
+      "HM111"
+    ]
+  },
+  {
+    "id": "FCSE_Common-1-C",
+    "program": "FCSE_Common",
+    "semester": 1,
+    "department": "FCSE",
+    "student_count": 60,
+    "course_codes": [
+      "CS101",
+      "CS101L",
+      "CL102",
+      "CL102L",
+      "MT101",
+      "HM101",
+      "HM111"
+    ]
+  },
+  {
+    "id": "FCSE_Common-1-D",
+    "program": "FCSE_Common",
+    "semester": 1,
+    "department": "FCSE",
+    "student_count": 60,
+    "course_codes": [
+      "CS101",
+      "CS101L",
+      "CL102",
+      "CL102L",
+      "MT101",
+      "HM101",
+      "HM111"
+    ]
+  },
+  {
+    "id": "FCSE_Common-1-E",
+    "program": "FCSE_Common",
+    "semester": 1,
+    "department": "FCSE",
+    "student_count": 60,
+    "course_codes": [
+      "CS101",
+      "CS101L",
+      "CL102",
+      "CL102L",
+      "MT101",
+      "HM101",
+      "HM111"
+    ]
+  },
+  {
+    "id": "FCSE_Common-1-F",
+    "program": "FCSE_Common",
+    "semester": 1,
+    "department": "FCSE",
+    "student_count": 60,
+    "course_codes": [
+      "CS101",
+      "CS101L",
+      "CL102",
+      "CL102L",
+      "MT101",
+      "HM101",
+      "HM111"
+    ]
+  },
+  {
+    "id": "FCSE_Common-2-A",
+    "program": "FCSE_Common",
+    "semester": 2,
+    "department": "FCSE",
+    "student_count": 60,
+    "course_codes": [
+      "CS102",
+      "CS102L",
+      "CS103",
+      "MT102",
+      "SS104",
+      "HM102",
+      "HM112",
+      "EL101"
+    ]
+  },
+  {
+    "id": "FCSE_Common-2-B",
+    "program": "FCSE_Common",
+    "semester": 2,
+    "department": "FCSE",
+    "student_count": 60,
+    "course_codes": [
+      "CS102",
+      "CS102L",
+      "CS103",
+      "MT102",
+      "SS104",
+      "HM102",
+      "HM112",
+      "EL101"
+    ]
+  },
+  {
+    "id": "FCSE_Common-2-C",
+    "program": "FCSE_Common",
+    "semester": 2,
+    "department": "FCSE",
+    "student_count": 60,
+    "course_codes": [
+      "CS102",
+      "CS102L",
+      "CS103",
+      "MT102",
+      "SS104",
+      "HM102",
+      "HM112",
+      "EL101"
+    ]
+  },
+  {
+    "id": "FCSE_Common-2-D",
+    "program": "FCSE_Common",
+    "semester": 2,
+    "department": "FCSE",
+    "student_count": 60,
+    "course_codes": [
+      "CS102",
+      "CS102L",
+      "CS103",
+      "MT102",
+      "SS104",
+      "HM102",
+      "HM112",
+      "EL101"
+    ]
+  },
+  {
+    "id": "FCSE_Common-2-E",
+    "program": "FCSE_Common",
+    "semester": 2,
+    "department": "FCSE",
+    "student_count": 60,
+    "course_codes": [
+      "CS102",
+      "CS102L",
+      "CS103",
+      "MT102",
+      "SS104",
+      "HM102",
+      "HM112",
+      "EL101"
+    ]
+  },
+  {
+    "id": "FCSE_Common-2-F",
+    "program": "FCSE_Common",
+    "semester": 2,
+    "department": "FCSE",
+    "student_count": 60,
+    "course_codes": [
+      "CS102",
+      "CS102L",
+      "CS103",
+      "MT102",
+      "SS104",
+      "HM102",
+      "HM112",
+      "EL101"
+    ]
+  },
+  {
+    "id": "BS_AI-3-A",
+    "program": "BS_AI",
+    "semester": 3,
+    "department": "FCSE",
+    "student_count": 30,
+    "course_codes": [
+      "AI201",
+      "CS232",
+      "CS232L",
+      "SS204",
+      "MT224",
+      "EL201",
+      "AI211",
+      "AI211L"
+    ]
+  },
+  {
+    "id": "BS_AI-3-B",
+    "program": "BS_AI",
+    "semester": 3,
+    "department": "FCSE",
+    "student_count": 30,
+    "course_codes": [
+      "AI201",
+      "CS232",
+      "CS232L",
+      "SS204",
+      "MT224",
+      "EL201",
+      "AI211",
+      "AI211L"
+    ]
+  },
+  {
+    "id": "BS_AI-4-A",
+    "program": "BS_AI",
+    "semester": 4,
+    "department": "FCSE",
+    "student_count": 30,
+    "course_codes": [
+      "MT241",
+      "CS251",
+      "CS251L",
+      "CS211",
+      "CS211L",
+      "CS272",
+      "SE202L",
+      "EL202"
+    ]
+  },
+  {
+    "id": "BS_AI-4-B",
+    "program": "BS_AI",
+    "semester": 4,
+    "department": "FCSE",
+    "student_count": 30,
+    "course_codes": [
+      "MT241",
+      "CS251",
+      "CS251L",
+      "CS211",
+      "CS211L",
+      "CS272",
+      "SE202L",
+      "EL202"
+    ]
+  },
+  {
+    "id": "BS_AI-5-A",
+    "program": "BS_AI",
+    "semester": 5,
+    "department": "FCSE",
+    "student_count": 30,
+    "course_codes": [
+      "AI321",
+      "AI321L",
+      "CS342",
+      "CS351",
+      "CS351L",
+      "CS365",
+      "EL301"
+    ]
+  },
+  {
+    "id": "BS_AI-5-B",
+    "program": "BS_AI",
+    "semester": 5,
+    "department": "FCSE",
+    "student_count": 30,
+    "course_codes": [
+      "AI321",
+      "AI321L",
+      "CS342",
+      "CS351",
+      "CS351L",
+      "CS365",
+      "EL301"
+    ]
+  },
+  {
+    "id": "BS_AI-6-A",
+    "program": "BS_AI",
+    "semester": 6,
+    "department": "FCSE",
+    "student_count": 30,
+    "course_codes": [
+      "CS334",
+      "CS334L",
+      "CS312",
+      "CS312L",
+      "CS361",
+      "SS302",
+      "EL302"
+    ]
+  },
+  {
+    "id": "BS_AI-6-B",
+    "program": "BS_AI",
+    "semester": 6,
+    "department": "FCSE",
+    "student_count": 30,
+    "course_codes": [
+      "CS334",
+      "CS334L",
+      "CS312",
+      "CS312L",
+      "CS361",
+      "SS302",
+      "EL302"
+    ]
+  },
+  {
+    "id": "BS_AI-7-A",
+    "program": "BS_AI",
+    "semester": 7,
+    "department": "FCSE",
+    "student_count": 30,
+    "course_codes": [
+      "AI411",
+      "AI411L",
+      "CS408",
+      "CS408L",
+      "HM413",
+      "CX4xx"
+    ]
+  },
+  {
+    "id": "BS_AI-8-A",
+    "program": "BS_AI",
+    "semester": 8,
+    "department": "FCSE",
+    "student_count": 30,
+    "course_codes": [
+      "AI421",
+      "AI421L",
+      "AI431",
+      "AI431L",
+      "CS417",
+      "CS417L",
+      "CS465",
+      "CS482",
+      "HMxxx",
+      "HM432"
+    ]
+  },
+  {
+    "id": "BS_CE-3-A",
+    "program": "BS_CE",
+    "semester": 3,
+    "department": "FCSE",
+    "student_count": 30,
+    "course_codes": [
+      "CE211",
+      "CE211L",
+      "CE221",
+      "CE221L",
+      "CS232",
+      "CS232L",
+      "SS204",
+      "MT224"
+    ]
+  },
+  {
+    "id": "BS_CE-3-B",
+    "program": "BS_CE",
+    "semester": 3,
+    "department": "FCSE",
+    "student_count": 30,
+    "course_codes": [
+      "CE211",
+      "CE211L",
+      "CE221",
+      "CE221L",
+      "CS232",
+      "CS232L",
+      "SS204",
+      "MT224"
+    ]
+  },
+  {
+    "id": "BS_CE-4-A",
+    "program": "BS_CE",
+    "semester": 4,
+    "department": "FCSE",
+    "student_count": 30,
+    "course_codes": [
+      "CE222",
+      "CE222L",
+      "CE231",
+      "CE231L",
+      "CS251",
+      "CS251L",
+      "MT241"
+    ]
+  },
+  {
+    "id": "BS_CE-4-B",
+    "program": "BS_CE",
+    "semester": 4,
+    "department": "FCSE",
+    "student_count": 30,
+    "course_codes": [
+      "CE222",
+      "CE222L",
+      "CE231",
+      "CE231L",
+      "CS251",
+      "CS251L",
+      "MT241"
+    ]
+  },
+  {
+    "id": "BS_CE-5-A",
+    "program": "BS_CE",
+    "semester": 5,
+    "department": "FCSE",
+    "student_count": 30,
+    "course_codes": [
+      "CE324",
+      "CE324L",
+      "CE341",
+      "CE341L",
+      "CS211",
+      "CS211L",
+      "CS212",
+      "CS212L"
+    ]
+  },
+  {
+    "id": "BS_CE-5-B",
+    "program": "BS_CE",
+    "semester": 5,
+    "department": "FCSE",
+    "student_count": 30,
+    "course_codes": [
+      "CE324",
+      "CE324L",
+      "CE341",
+      "CE341L",
+      "CS211",
+      "CS211L",
+      "CS212",
+      "CS212L"
+    ]
+  },
+  {
+    "id": "BS_CE-6-A",
+    "program": "BS_CE",
+    "semester": 6,
+    "department": "FCSE",
+    "student_count": 30,
+    "course_codes": [
+      "CE342",
+      "CE361",
+      "CE361L",
+      "CS361",
+      "CS334",
+      "CS334L",
+      "SS302"
+    ]
+  },
+  {
+    "id": "BS_CE-6-B",
+    "program": "BS_CE",
+    "semester": 6,
+    "department": "FCSE",
+    "student_count": 30,
+    "course_codes": [
+      "CE342",
+      "CE361",
+      "CE361L",
+      "CS361",
+      "CS334",
+      "CS334L",
+      "SS302"
+    ]
+  },
+  {
+    "id": "BS_CE-7-A",
+    "program": "BS_CE",
+    "semester": 7,
+    "department": "FCSE",
+    "student_count": 30,
+    "course_codes": [
+      "CE408",
+      "CE436",
+      "CE436L",
+      "CS478",
+      "CX4xx"
+    ]
+  },
+  {
+    "id": "BS_CE-8-A",
+    "program": "BS_CE",
+    "semester": 8,
+    "department": "FCSE",
+    "student_count": 30,
+    "course_codes": [
+      "CE4xx",
+      "HMxxx",
+      "HM432",
+      "HM414"
+    ]
+  },
+  {
+    "id": "BS_CS-3-A",
+    "program": "BS_CS",
+    "semester": 3,
+    "department": "FCSE",
+    "student_count": 45,
+    "course_codes": [
+      "CS201",
+      "CS201L",
+      "CS232",
+      "CS232L",
+      "SS204",
+      "MT224",
+      "SE201"
+    ]
+  },
+  {
+    "id": "BS_CS-3-B",
+    "program": "BS_CS",
+    "semester": 3,
+    "department": "FCSE",
+    "student_count": 45,
+    "course_codes": [
+      "CS201",
+      "CS201L",
+      "CS232",
+      "CS232L",
+      "SS204",
+      "MT224",
+      "SE201"
+    ]
+  },
+  {
+    "id": "BS_CS-4-A",
+    "program": "BS_CS",
+    "semester": 4,
+    "department": "FCSE",
+    "student_count": 45,
+    "course_codes": [
+      "CS251",
+      "CS251L",
+      "CS224",
+      "CS272",
+      "SE202L",
+      "MT241",
+      "SE211"
+    ]
+  },
+  {
+    "id": "BS_CS-4-B",
+    "program": "BS_CS",
+    "semester": 4,
+    "department": "FCSE",
+    "student_count": 45,
+    "course_codes": [
+      "CS251",
+      "CS251L",
+      "CS224",
+      "CS272",
+      "SE202L",
+      "MT241",
+      "SE211"
+    ]
+  },
+  {
+    "id": "BS_CS-5-A",
+    "program": "BS_CS",
+    "semester": 5,
+    "department": "FCSE",
+    "student_count": 45,
+    "course_codes": [
+      "CS342",
+      "CS351",
+      "CS351L",
+      "CS365",
+      "SE322",
+      "SE322L"
+    ]
+  },
+  {
+    "id": "BS_CS-5-B",
+    "program": "BS_CS",
+    "semester": 5,
+    "department": "FCSE",
+    "student_count": 45,
+    "course_codes": [
+      "CS342",
+      "CS351",
+      "CS351L",
+      "CS365",
+      "SE322",
+      "SE322L"
+    ]
+  },
+  {
+    "id": "BS_CS-6-A",
+    "program": "BS_CS",
+    "semester": 6,
+    "department": "FCSE",
+    "student_count": 45,
+    "course_codes": [
+      "CS324",
+      "CS334",
+      "CS334L",
+      "CS312",
+      "CS312L",
+      "CS323",
+      "CS323L"
+    ]
+  },
+  {
+    "id": "BS_CS-6-B",
+    "program": "BS_CS",
+    "semester": 6,
+    "department": "FCSE",
+    "student_count": 45,
+    "course_codes": [
+      "CS324",
+      "CS334",
+      "CS334L",
+      "CS312",
+      "CS312L",
+      "CS323",
+      "CS323L"
+    ]
+  },
+  {
+    "id": "BS_CS-7-A",
+    "program": "BS_CS",
+    "semester": 7,
+    "department": "FCSE",
+    "student_count": 45,
+    "course_codes": [
+      "CS412",
+      "CS424",
+      "CS424L",
+      "CS492"
+    ]
+  },
+  {
+    "id": "BS_CS-8-A",
+    "program": "BS_CS",
+    "semester": 8,
+    "department": "FCSE",
+    "student_count": 45,
+    "course_codes": [
+      "CS417",
+      "CS417L",
+      "CS465",
+      "CS482",
+      "HMxxx",
+      "HM432"
+    ]
+  },
+  {
+    "id": "BS_CyS-3-A",
+    "program": "BS_CyS",
+    "semester": 3,
+    "department": "FCSE",
+    "student_count": 30,
+    "course_codes": [
+      "CS201",
+      "CS201L",
+      "CS232",
+      "CS232L",
+      "SS204",
+      "MT224",
+      "CY201"
+    ]
+  },
+  {
+    "id": "BS_CyS-3-B",
+    "program": "BS_CyS",
+    "semester": 3,
+    "department": "FCSE",
+    "student_count": 30,
+    "course_codes": [
+      "CS201",
+      "CS201L",
+      "CS232",
+      "CS232L",
+      "SS204",
+      "MT224",
+      "CY201"
+    ]
+  },
+  {
+    "id": "BS_CyS-4-A",
+    "program": "BS_CyS",
+    "semester": 4,
+    "department": "FCSE",
+    "student_count": 30,
+    "course_codes": [
+      "CS251",
+      "CS251L",
+      "CY201",
+      "CY211",
+      "MT241",
+      "SE202L"
+    ]
+  },
+  {
+    "id": "BS_CyS-4-B",
+    "program": "BS_CyS",
+    "semester": 4,
+    "department": "FCSE",
+    "student_count": 30,
+    "course_codes": [
+      "CS251",
+      "CS251L",
+      "CY201",
+      "CY211",
+      "MT241",
+      "SE202L"
+    ]
+  },
+  {
+    "id": "BS_CyS-5-A",
+    "program": "BS_CyS",
+    "semester": 5,
+    "department": "FCSE",
+    "student_count": 30,
+    "course_codes": [
+      "CS342",
+      "CS365",
+      "CS212",
+      "CS212L"
+    ]
+  },
+  {
+    "id": "BS_CyS-5-B",
+    "program": "BS_CyS",
+    "semester": 5,
+    "department": "FCSE",
+    "student_count": 30,
+    "course_codes": [
+      "CS342",
+      "CS365",
+      "CS212",
+      "CS212L"
+    ]
+  },
+  {
+    "id": "BS_CyS-6-A",
+    "program": "BS_CyS",
+    "semester": 6,
+    "department": "FCSE",
+    "student_count": 30,
+    "course_codes": [
+      "CY331",
+      "CY341",
+      "CY341L",
+      "CY392"
+    ]
+  },
+  {
+    "id": "BS_CyS-6-B",
+    "program": "BS_CyS",
+    "semester": 6,
+    "department": "FCSE",
+    "student_count": 30,
+    "course_codes": [
+      "CY331",
+      "CY341",
+      "CY341L",
+      "CY392"
+    ]
+  },
+  {
+    "id": "BS_CyS-7-A",
+    "program": "BS_CyS",
+    "semester": 7,
+    "department": "FCSE",
+    "student_count": 30,
+    "course_codes": [
+      "CY478",
+      "CY478L",
+      "CY412",
+      "CY412L",
+      "HM413"
+    ]
+  },
+  {
+    "id": "BS_CyS-8-A",
+    "program": "BS_CyS",
+    "semester": 8,
+    "department": "FCSE",
+    "student_count": 30,
+    "course_codes": [
+      "CY424",
+      "CY424L",
+      "CS482",
+      "HMxxx",
+      "HM432",
+      "HM414"
+    ]
+  },
+  {
+    "id": "BS_DS-3-A",
+    "program": "BS_DS",
+    "semester": 3,
+    "department": "FCSE",
+    "student_count": 30,
+    "course_codes": [
+      "CS201",
+      "CS201L",
+      "CS232",
+      "CS232L",
+      "SS204",
+      "MT224"
+    ]
+  },
+  {
+    "id": "BS_DS-3-B",
+    "program": "BS_DS",
+    "semester": 3,
+    "department": "FCSE",
+    "student_count": 30,
+    "course_codes": [
+      "CS201",
+      "CS201L",
+      "CS232",
+      "CS232L",
+      "SS204",
+      "MT224"
+    ]
+  },
+  {
+    "id": "BS_DS-4-A",
+    "program": "BS_DS",
+    "semester": 4,
+    "department": "FCSE",
+    "student_count": 30,
+    "course_codes": [
+      "CS251",
+      "CS251L",
+      "DS211",
+      "DS221",
+      "MT241"
+    ]
+  },
+  {
+    "id": "BS_DS-4-B",
+    "program": "BS_DS",
+    "semester": 4,
+    "department": "FCSE",
+    "student_count": 30,
+    "course_codes": [
+      "CS251",
+      "CS251L",
+      "DS211",
+      "DS221",
+      "MT241"
+    ]
+  },
+  {
+    "id": "BS_DS-5-A",
+    "program": "BS_DS",
+    "semester": 5,
+    "department": "FCSE",
+    "student_count": 30,
+    "course_codes": [
+      "CS342",
+      "DS341",
+      "CS351",
+      "CS351L"
+    ]
+  },
+  {
+    "id": "BS_DS-5-B",
+    "program": "BS_DS",
+    "semester": 5,
+    "department": "FCSE",
+    "student_count": 30,
+    "course_codes": [
+      "CS342",
+      "DS341",
+      "CS351",
+      "CS351L"
+    ]
+  },
+  {
+    "id": "BS_DS-6-A",
+    "program": "BS_DS",
+    "semester": 6,
+    "department": "FCSE",
+    "student_count": 30,
+    "course_codes": [
+      "DS331",
+      "DS331L",
+      "DS351",
+      "DS351L",
+      "DS361",
+      "DS361L"
+    ]
+  },
+  {
+    "id": "BS_DS-6-B",
+    "program": "BS_DS",
+    "semester": 6,
+    "department": "FCSE",
+    "student_count": 30,
+    "course_codes": [
+      "DS331",
+      "DS331L",
+      "DS351",
+      "DS351L",
+      "DS361",
+      "DS361L"
+    ]
+  },
+  {
+    "id": "BS_DS-7-A",
+    "program": "BS_DS",
+    "semester": 7,
+    "department": "FCSE",
+    "student_count": 30,
+    "course_codes": [
+      "DS471",
+      "CS408",
+      "CS408L"
+    ]
+  },
+  {
+    "id": "BS_DS-8-A",
+    "program": "BS_DS",
+    "semester": 8,
+    "department": "FCSE",
+    "student_count": 30,
+    "course_codes": [
+      "CS417",
+      "CS417L",
+      "CS482",
+      "HMxxx",
+      "HM432",
+      "HM414"
+    ]
+  },
+  {
+    "id": "BS_SE-3-A",
+    "program": "BS_SE",
+    "semester": 3,
+    "department": "FCSE",
+    "student_count": 40,
+    "course_codes": [
+      "CS201",
+      "CS201L",
+      "CS232",
+      "CS232L",
+      "SS204",
+      "MT224",
+      "SE201"
+    ]
+  },
+  {
+    "id": "BS_SE-3-B",
+    "program": "BS_SE",
+    "semester": 3,
+    "department": "FCSE",
+    "student_count": 40,
+    "course_codes": [
+      "CS201",
+      "CS201L",
+      "CS232",
+      "CS232L",
+      "SS204",
+      "MT224",
+      "SE201"
+    ]
+  },
+  {
+    "id": "BS_SE-4-A",
+    "program": "BS_SE",
+    "semester": 4,
+    "department": "FCSE",
+    "student_count": 40,
+    "course_codes": [
+      "CS251",
+      "CS251L",
+      "SE211",
+      "SE202L",
+      "MT241"
+    ]
+  },
+  {
+    "id": "BS_SE-4-B",
+    "program": "BS_SE",
+    "semester": 4,
+    "department": "FCSE",
+    "student_count": 40,
+    "course_codes": [
+      "CS251",
+      "CS251L",
+      "SE211",
+      "SE202L",
+      "MT241"
+    ]
+  },
+  {
+    "id": "BS_SE-5-A",
+    "program": "BS_SE",
+    "semester": 5,
+    "department": "FCSE",
+    "student_count": 40,
+    "course_codes": [
+      "CS211",
+      "CS211L",
+      "SE322",
+      "SE322L"
+    ]
+  },
+  {
+    "id": "BS_SE-5-B",
+    "program": "BS_SE",
+    "semester": 5,
+    "department": "FCSE",
+    "student_count": 40,
+    "course_codes": [
+      "CS211",
+      "CS211L",
+      "SE322",
+      "SE322L"
+    ]
+  },
+  {
+    "id": "BS_SE-6-A",
+    "program": "BS_SE",
+    "semester": 6,
+    "department": "FCSE",
+    "student_count": 40,
+    "course_codes": [
+      "SE351",
+      "SE351L",
+      "SE323",
+      "SE323L",
+      "SE331",
+      "SE302L"
+    ]
+  },
+  {
+    "id": "BS_SE-6-B",
+    "program": "BS_SE",
+    "semester": 6,
+    "department": "FCSE",
+    "student_count": 40,
+    "course_codes": [
+      "SE351",
+      "SE351L",
+      "SE323",
+      "SE323L",
+      "SE331",
+      "SE302L"
+    ]
+  },
+  {
+    "id": "BS_SE-7-A",
+    "program": "BS_SE",
+    "semester": 7,
+    "department": "FCSE",
+    "student_count": 40,
+    "course_codes": [
+      "CS492",
+      "CS412",
+      "CS424",
+      "CS424L"
+    ]
+  },
+  {
+    "id": "BS_SE-8-A",
+    "program": "BS_SE",
+    "semester": 8,
+    "department": "FCSE",
+    "student_count": 40,
+    "course_codes": [
+      "CS482",
+      "HMxxx",
+      "HM432",
+      "HM414"
+    ]
+  },
+  {
+    "id": "BS_EE-3-A",
+    "program": "BS_EE",
+    "semester": 3,
+    "department": "FEE",
+    "student_count": 35,
+    "course_codes": [
+      "EE211",
+      "EE211L",
+      "EE221",
+      "EE221L",
+      "EE222",
+      "MT201"
+    ]
+  },
+  {
+    "id": "BS_EE-3-B",
+    "program": "BS_EE",
+    "semester": 3,
+    "department": "FEE",
+    "student_count": 35,
+    "course_codes": [
+      "EE211",
+      "EE211L",
+      "EE221",
+      "EE221L",
+      "EE222",
+      "MT201"
+    ]
+  },
+  {
+    "id": "BS_EE-4-A",
+    "program": "BS_EE",
+    "semester": 4,
+    "department": "FEE",
+    "student_count": 35,
+    "course_codes": [
+      "EE212",
+      "EE212L",
+      "EE223",
+      "EE223L",
+      "EE231",
+      "EE231L",
+      "MS291",
+      "EE241"
+    ]
+  },
+  {
+    "id": "BS_EE-4-B",
+    "program": "BS_EE",
+    "semester": 4,
+    "department": "FEE",
+    "student_count": 35,
+    "course_codes": [
+      "EE212",
+      "EE212L",
+      "EE223",
+      "EE223L",
+      "EE231",
+      "EE231L",
+      "MS291",
+      "EE241"
+    ]
+  },
+  {
+    "id": "BS_EE-5-A",
+    "program": "BS_EE",
+    "semester": 5,
+    "department": "FEE",
+    "student_count": 35,
+    "course_codes": [
+      "EE311",
+      "EE311L",
+      "EE341",
+      "EE341L",
+      "EE351",
+      "EE351L"
+    ]
+  },
+  {
+    "id": "BS_EE-5-B",
+    "program": "BS_EE",
+    "semester": 5,
+    "department": "FEE",
+    "student_count": 35,
+    "course_codes": [
+      "EE311",
+      "EE311L",
+      "EE341",
+      "EE341L",
+      "EE351",
+      "EE351L"
+    ]
+  },
+  {
+    "id": "BS_EE-6-A",
+    "program": "BS_EE",
+    "semester": 6,
+    "department": "FEE",
+    "student_count": 35,
+    "course_codes": [
+      "EE332",
+      "EE361"
+    ]
+  },
+  {
+    "id": "BS_EE-6-B",
+    "program": "BS_EE",
+    "semester": 6,
+    "department": "FEE",
+    "student_count": 35,
+    "course_codes": [
+      "EE332",
+      "EE361"
+    ]
+  },
+  {
+    "id": "BS_EE-7-A",
+    "program": "BS_EE",
+    "semester": 7,
+    "department": "FEE",
+    "student_count": 35,
+    "course_codes": [
+      "EE452",
+      "EE4xx"
+    ]
+  },
+  {
+    "id": "BS_EE-8-A",
+    "program": "BS_EE",
+    "semester": 8,
+    "department": "FEE",
+    "student_count": 35,
+    "course_codes": [
+      "HMxxx",
+      "HM432",
+      "HM414"
+    ]
+  },
+  {
+    "id": "BS_ME-3-A",
+    "program": "BS_ME",
+    "semester": 3,
+    "department": "FME",
+    "student_count": 35,
+    "course_codes": [
+      "ME211",
+      "ME204",
+      "ME202",
+      "ME251",
+      "ME231",
+      "ME245L"
+    ]
+  },
+  {
+    "id": "BS_ME-3-B",
+    "program": "BS_ME",
+    "semester": 3,
+    "department": "FME",
+    "student_count": 35,
+    "course_codes": [
+      "ME211",
+      "ME204",
+      "ME202",
+      "ME251",
+      "ME231",
+      "ME245L"
+    ]
+  },
+  {
+    "id": "BS_ME-4-A",
+    "program": "BS_ME",
+    "semester": 4,
+    "department": "FME",
+    "student_count": 35,
+    "course_codes": [
+      "ME212",
+      "ME213",
+      "ME203",
+      "ME243L",
+      "ME244L"
+    ]
+  },
+  {
+    "id": "BS_ME-4-B",
+    "program": "BS_ME",
+    "semester": 4,
+    "department": "FME",
+    "student_count": 35,
+    "course_codes": [
+      "ME212",
+      "ME213",
+      "ME203",
+      "ME243L",
+      "ME244L"
+    ]
+  },
+  {
+    "id": "BS_ME-5-A",
+    "program": "BS_ME",
+    "semester": 5,
+    "department": "FME",
+    "student_count": 35,
+    "course_codes": [
+      "ME321",
+      "ME363",
+      "ME313",
+      "ES341",
+      "ME314",
+      "ME346L"
+    ]
+  },
+  {
+    "id": "BS_ME-5-B",
+    "program": "BS_ME",
+    "semester": 5,
+    "department": "FME",
+    "student_count": 35,
+    "course_codes": [
+      "ME321",
+      "ME363",
+      "ME313",
+      "ES341",
+      "ME314",
+      "ME346L"
+    ]
+  },
+  {
+    "id": "BS_ME-6-A",
+    "program": "BS_ME",
+    "semester": 6,
+    "department": "FME",
+    "student_count": 35,
+    "course_codes": [
+      "ME322",
+      "ME333",
+      "ME315",
+      "ME364",
+      "ME316"
+    ]
+  },
+  {
+    "id": "BS_ME-6-B",
+    "program": "BS_ME",
+    "semester": 6,
+    "department": "FME",
+    "student_count": 35,
+    "course_codes": [
+      "ME322",
+      "ME333",
+      "ME315",
+      "ME364",
+      "ME316"
+    ]
+  },
+  {
+    "id": "BS_ME-7-A",
+    "program": "BS_ME",
+    "semester": 7,
+    "department": "FME",
+    "student_count": 35,
+    "course_codes": [
+      "ME464",
+      "ME403",
+      "MS49x",
+      "ME4xx"
+    ]
+  },
+  {
+    "id": "BS_ME-8-A",
+    "program": "BS_ME",
+    "semester": 8,
+    "department": "FME",
+    "student_count": 35,
+    "course_codes": [
+      "ME467",
+      "HMxxx",
+      "HM432",
+      "HM414"
+    ]
+  },
+  {
+    "id": "BS_MM-3-A",
+    "program": "BS_MM",
+    "semester": 3,
+    "department": "FMCE",
+    "student_count": 25,
+    "course_codes": [
+      "MM212",
+      "MM231",
+      "MM214",
+      "EE213",
+      "MM242L"
+    ]
+  },
+  {
+    "id": "BS_MM-3-B",
+    "program": "BS_MM",
+    "semester": 3,
+    "department": "FMCE",
+    "student_count": 25,
+    "course_codes": [
+      "MM212",
+      "MM231",
+      "MM214",
+      "EE213",
+      "MM242L"
+    ]
+  },
+  {
+    "id": "BS_MM-4-A",
+    "program": "BS_MM",
+    "semester": 4,
+    "department": "FMCE",
+    "student_count": 25,
+    "course_codes": [
+      "MM232",
+      "MM222",
+      "MM233",
+      "MM201",
+      "MM244L"
+    ]
+  },
+  {
+    "id": "BS_MM-4-B",
+    "program": "BS_MM",
+    "semester": 4,
+    "department": "FMCE",
+    "student_count": 25,
+    "course_codes": [
+      "MM232",
+      "MM222",
+      "MM233",
+      "MM201",
+      "MM244L"
+    ]
+  },
+  {
+    "id": "BS_MM-5-A",
+    "program": "BS_MM",
+    "semester": 5,
+    "department": "FMCE",
+    "student_count": 25,
+    "course_codes": [
+      "MM323",
+      "MM324",
+      "MM334",
+      "MM351",
+      "MM344L"
+    ]
+  },
+  {
+    "id": "BS_MM-5-B",
+    "program": "BS_MM",
+    "semester": 5,
+    "department": "FMCE",
+    "student_count": 25,
+    "course_codes": [
+      "MM323",
+      "MM324",
+      "MM334",
+      "MM351",
+      "MM344L"
+    ]
+  },
+  {
+    "id": "BS_MM-6-A",
+    "program": "BS_MM",
+    "semester": 6,
+    "department": "FMCE",
+    "student_count": 25,
+    "course_codes": [
+      "MM352",
+      "MM365",
+      "MM362"
+    ]
+  },
+  {
+    "id": "BS_MM-6-B",
+    "program": "BS_MM",
+    "semester": 6,
+    "department": "FMCE",
+    "student_count": 25,
+    "course_codes": [
+      "MM352",
+      "MM365",
+      "MM362"
+    ]
+  },
+  {
+    "id": "BS_MM-7-A",
+    "program": "BS_MM",
+    "semester": 7,
+    "department": "FMCE",
+    "student_count": 25,
+    "course_codes": [
+      "MM435",
+      "MM453"
+    ]
+  },
+  {
+    "id": "BS_MM-8-A",
+    "program": "BS_MM",
+    "semester": 8,
+    "department": "FMCE",
+    "student_count": 25,
+    "course_codes": [
+      "MM451",
+      "HMxxx",
+      "HM432",
+      "HM414"
+    ]
+  },
+  {
+    "id": "BS_ChE-3-A",
+    "program": "BS_ChE",
+    "semester": 3,
+    "department": "FMCE",
+    "student_count": 25,
+    "course_codes": [
+      "CH201",
+      "CH211",
+      "CH231",
+      "CH251L"
+    ]
+  },
+  {
+    "id": "BS_ChE-3-B",
+    "program": "BS_ChE",
+    "semester": 3,
+    "department": "FMCE",
+    "student_count": 25,
+    "course_codes": [
+      "CH201",
+      "CH211",
+      "CH231",
+      "CH251L"
+    ]
+  },
+  {
+    "id": "BS_ChE-4-A",
+    "program": "BS_ChE",
+    "semester": 4,
+    "department": "FMCE",
+    "student_count": 25,
+    "course_codes": [
+      "CH202",
+      "CH212",
+      "CH214",
+      "CH241",
+      "CH252L",
+      "CH253L"
+    ]
+  },
+  {
+    "id": "BS_ChE-4-B",
+    "program": "BS_ChE",
+    "semester": 4,
+    "department": "FMCE",
+    "student_count": 25,
+    "course_codes": [
+      "CH202",
+      "CH212",
+      "CH214",
+      "CH241",
+      "CH252L",
+      "CH253L"
+    ]
+  },
+  {
+    "id": "BS_ChE-5-A",
+    "program": "BS_ChE",
+    "semester": 5,
+    "department": "FMCE",
+    "student_count": 25,
+    "course_codes": [
+      "CH311",
+      "CH313",
+      "CH321",
+      "CH341",
+      "CH351L"
+    ]
+  },
+  {
+    "id": "BS_ChE-5-B",
+    "program": "BS_ChE",
+    "semester": 5,
+    "department": "FMCE",
+    "student_count": 25,
+    "course_codes": [
+      "CH311",
+      "CH313",
+      "CH321",
+      "CH341",
+      "CH351L"
+    ]
+  },
+  {
+    "id": "BS_ChE-6-A",
+    "program": "BS_ChE",
+    "semester": 6,
+    "department": "FMCE",
+    "student_count": 25,
+    "course_codes": [
+      "CH322",
+      "CH331",
+      "CH342",
+      "CH361"
+    ]
+  },
+  {
+    "id": "BS_ChE-6-B",
+    "program": "BS_ChE",
+    "semester": 6,
+    "department": "FMCE",
+    "student_count": 25,
+    "course_codes": [
+      "CH322",
+      "CH331",
+      "CH342",
+      "CH361"
+    ]
+  },
+  {
+    "id": "BS_ChE-7-A",
+    "program": "BS_ChE",
+    "semester": 7,
+    "department": "FMCE",
+    "student_count": 25,
+    "course_codes": [
+      "CH411",
+      "CH415"
+    ]
+  },
+  {
+    "id": "BS_ChE-8-A",
+    "program": "BS_ChE",
+    "semester": 8,
+    "department": "FMCE",
+    "student_count": 25,
+    "course_codes": [
+      "CH412",
+      "CH441",
+      "HMxxx",
+      "HM432",
+      "HM414"
+    ]
+  },
+  {
+    "id": "BS_CvE-3-A",
+    "program": "BS_CvE",
+    "semester": 3,
+    "department": "CIVIL",
+    "student_count": 35,
+    "course_codes": [
+      "CV201",
+      "CV201L",
+      "CV210L",
+      "CV211",
+      "CV215",
+      "CV215L",
+      "CV221",
+      "CV221L"
+    ]
+  },
+  {
+    "id": "BS_CvE-3-B",
+    "program": "BS_CvE",
+    "semester": 3,
+    "department": "CIVIL",
+    "student_count": 35,
+    "course_codes": [
+      "CV201",
+      "CV201L",
+      "CV210L",
+      "CV211",
+      "CV215",
+      "CV215L",
+      "CV221",
+      "CV221L"
+    ]
+  },
+  {
+    "id": "BS_CvE-4-A",
+    "program": "BS_CvE",
+    "semester": 4,
+    "department": "CIVIL",
+    "student_count": 35,
+    "course_codes": [
+      "CV230",
+      "CV213",
+      "CV231",
+      "CV231L",
+      "CV241"
+    ]
+  },
+  {
+    "id": "BS_CvE-4-B",
+    "program": "BS_CvE",
+    "semester": 4,
+    "department": "CIVIL",
+    "student_count": 35,
+    "course_codes": [
+      "CV230",
+      "CV213",
+      "CV231",
+      "CV231L",
+      "CV241"
+    ]
+  },
+  {
+    "id": "BS_CvE-5-A",
+    "program": "BS_CvE",
+    "semester": 5,
+    "department": "CIVIL",
+    "student_count": 35,
+    "course_codes": [
+      "CV313",
+      "CV322",
+      "CV332",
+      "CV323"
+    ]
+  },
+  {
+    "id": "BS_CvE-5-B",
+    "program": "BS_CvE",
+    "semester": 5,
+    "department": "CIVIL",
+    "student_count": 35,
+    "course_codes": [
+      "CV313",
+      "CV322",
+      "CV332",
+      "CV323"
+    ]
+  },
+  {
+    "id": "BS_CvE-6-A",
+    "program": "BS_CvE",
+    "semester": 6,
+    "department": "CIVIL",
+    "student_count": 35,
+    "course_codes": [
+      "CV305",
+      "CV314",
+      "CV315",
+      "CV351",
+      "CV361"
+    ]
+  },
+  {
+    "id": "BS_CvE-6-B",
+    "program": "BS_CvE",
+    "semester": 6,
+    "department": "CIVIL",
+    "student_count": 35,
+    "course_codes": [
+      "CV305",
+      "CV314",
+      "CV315",
+      "CV351",
+      "CV361"
+    ]
+  },
+  {
+    "id": "BS_CvE-7-A",
+    "program": "BS_CvE",
+    "semester": 7,
+    "department": "CIVIL",
+    "student_count": 35,
+    "course_codes": [
+      "CV414",
+      "CV442",
+      "CV407",
+      "CV403L"
+    ]
+  },
+  {
+    "id": "BS_CvE-8-A",
+    "program": "BS_CvE",
+    "semester": 8,
+    "department": "CIVIL",
+    "student_count": 35,
+    "course_codes": [
+      "CV408",
+      "CV425",
+      "CV452",
+      "HMxxx",
+      "HM432",
+      "HM414"
+    ]
+  },
+  {
+    "id": "BS_MS-1-A",
+    "program": "BS_MS",
+    "semester": 1,
+    "department": "SMS",
+    "student_count": 40,
+    "course_codes": [
+      "MS101",
+      "MS121",
+      "MS131",
+      "HM111"
+    ]
+  },
+  {
+    "id": "BS_MS-1-B",
+    "program": "BS_MS",
+    "semester": 1,
+    "department": "SMS",
+    "student_count": 40,
+    "course_codes": [
+      "MS101",
+      "MS121",
+      "MS131",
+      "HM111"
+    ]
+  },
+  {
+    "id": "BS_MS-2-A",
+    "program": "BS_MS",
+    "semester": 2,
+    "department": "SMS",
+    "student_count": 40,
+    "course_codes": [
+      "MS102",
+      "MS122",
+      "MS141",
+      "MS151",
+      "HM112"
+    ]
+  },
+  {
+    "id": "BS_MS-2-B",
+    "program": "BS_MS",
+    "semester": 2,
+    "department": "SMS",
+    "student_count": 40,
+    "course_codes": [
+      "MS102",
+      "MS122",
+      "MS141",
+      "MS151",
+      "HM112"
+    ]
+  },
+  {
+    "id": "BS_MS-3-A",
+    "program": "BS_MS",
+    "semester": 3,
+    "department": "SMS",
+    "student_count": 40,
+    "course_codes": [
+      "MS232",
+      "MS242",
+      "MS252",
+      "HM203",
+      "MS222",
+      "HM222",
+      "HM213",
+      "HM221"
+    ]
+  },
+  {
+    "id": "BS_MS-3-B",
+    "program": "BS_MS",
+    "semester": 3,
+    "department": "SMS",
+    "student_count": 40,
+    "course_codes": [
+      "MS232",
+      "MS242",
+      "MS252",
+      "HM203",
+      "MS222",
+      "HM222",
+      "HM213",
+      "HM221"
+    ]
+  },
+  {
+    "id": "BS_MS-4-A",
+    "program": "BS_MS",
+    "semester": 4,
+    "department": "SMS",
+    "student_count": 40,
+    "course_codes": [
+      "MS203",
+      "MS211",
+      "MS233",
+      "MS234",
+      "MS253",
+      "HM223"
+    ]
+  },
+  {
+    "id": "BS_MS-4-B",
+    "program": "BS_MS",
+    "semester": 4,
+    "department": "SMS",
+    "student_count": 40,
+    "course_codes": [
+      "MS203",
+      "MS211",
+      "MS233",
+      "MS234",
+      "MS253",
+      "HM223"
+    ]
+  },
+  {
+    "id": "BS_MS-7-A",
+    "program": "BS_MS",
+    "semester": 7,
+    "department": "SMS",
+    "student_count": 40,
+    "course_codes": [
+      "MS471",
+      "MS4xx",
+      "HM404"
+    ]
+  },
+  {
+    "id": "BS_MS-8-A",
+    "program": "BS_MS",
+    "semester": 8,
+    "department": "SMS",
+    "student_count": 40,
+    "course_codes": [
+      "MS472",
+      "HMxxx",
+      "HM432",
+      "HM414"
+    ]
+  }
+]
