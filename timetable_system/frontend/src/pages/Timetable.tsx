@@ -4,10 +4,12 @@ import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
 import { useAppStore } from '@/store'
 import { DAYS, PERIODS } from '@/lib/constants'
 import { cn } from '@/lib/utils'
+import StudentView from '@/components/StudentView'
 
 export default function Timetable() {
   const { lastSchedule, sections, conflicts } = useAppStore()
   const [activeTab, setActiveTab] = useState('table')
+  const [gridSubTab, setGridSubTab] = useState('by-section')
 
   return (
     <div className="space-y-6">
@@ -69,53 +71,66 @@ export default function Timetable() {
         </TabsContent>
 
         <TabsContent value="grid" className="space-y-4">
-          <Card>
-            <CardHeader>
-              <CardTitle>Weekly Grid</CardTitle>
-            </CardHeader>
-            <CardContent>
-              <div className="overflow-x-auto">
-                <div className="grid grid-cols-6 gap-1 min-w-[600px]">
-                  <div className="p-2 font-bold">Period</div>
-                  {DAYS.map((day) => (
-                    <div key={day} className="p-2 font-bold text-center">{day}</div>
-                  ))}
-                  
-                  {PERIODS.map((period) => (
-                    <>
-                      <div key={`p-${period}`} className="p-2 font-medium">{period}</div>
-                      {DAYS.map((day) => {
-                        const entry = lastSchedule.find(
-                          (e) => e.day === day && e.period === period
-                        )
-                        return (
-                          <div
-                            key={`${day}-${period}`}
-                            className={cn(
-                              'p-2 min-h-[60px] border rounded',
-                              entry ? 'bg-secondary' : 'border-dashed border-muted'
-                            )}
-                          >
-                            {entry && (
-                              <div className="text-xs">
-                                <div className="font-bold">{entry.course_code}</div>
-                                <div className="text-muted-foreground">{entry.room_id}</div>
+          <Tabs value={gridSubTab} onValueChange={setGridSubTab}>
+            <TabsList>
+              <TabsTrigger value="by-section">By Section</TabsTrigger>
+              <TabsTrigger value="student-view">Student View</TabsTrigger>
+            </TabsList>
+
+            <TabsContent value="by-section" className="space-y-4">
+              <Card>
+                <CardHeader>
+                  <CardTitle>Weekly Grid - By Section</CardTitle>
+                </CardHeader>
+                <CardContent>
+                  <div className="overflow-x-auto">
+                    <div className="grid grid-cols-6 gap-1 min-w-[600px]">
+                      <div className="p-2 font-bold">Period</div>
+                      {DAYS.map((day) => (
+                        <div key={day} className="p-2 font-bold text-center">{day}</div>
+                      ))}
+
+                      {PERIODS.map((period) => (
+                        <>
+                          <div key={`p-${period}`} className="p-2 font-medium">{period}</div>
+                          {DAYS.map((day) => {
+                            const entry = lastSchedule.find(
+                              (e) => e.day === day && e.period === period
+                            )
+                            return (
+                              <div
+                                key={`${day}-${period}`}
+                                className={cn(
+                                  'p-2 min-h-[60px] border rounded',
+                                  entry ? 'bg-secondary' : 'border-dashed border-muted'
+                                )}
+                              >
+                                {entry && (
+                                  <div className="text-xs">
+                                    <div className="font-bold">{entry.course_code}</div>
+                                    <div className="text-muted-foreground">{entry.room_id}</div>
+                                  </div>
+                                )}
                               </div>
-                            )}
-                          </div>
-                        )
-                      })}
-                    </>
-                  ))}
-                </div>
-              </div>
-              {lastSchedule.length === 0 && (
-                <p className="text-center text-muted-foreground py-8">
-                  No schedule generated yet. Go to Dashboard to generate a timetable.
-                </p>
-              )}
-            </CardContent>
-          </Card>
+                            )
+                          })}
+                        </>
+                      ))}
+                    </div>
+                  </div>
+                  {lastSchedule.length === 0 && (
+                    <p className="text-center text-muted-foreground py-8">
+                      No schedule generated yet. Go to Dashboard to generate a timetable.
+                    </p>
+                  )}
+                </CardContent>
+              </Card>
+            </TabsContent>
+
+            <TabsContent value="student-view">
+              <StudentView />
+            </TabsContent>
+          </Tabs>
         </TabsContent>
 
         <TabsContent value="stats" className="space-y-4">
